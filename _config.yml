@@ -1,0 +1,9 @@
+# Site settings
+title: Distributed Press
+description: A beginner friendly, open-source publishing tool for the distributed web.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed

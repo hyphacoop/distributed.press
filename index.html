@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% for s in site.data.content %}
+  <section>
+    <div class="container">
+      <h2>{{ s.section }}</h2>
+      {{ s.text | markdownify }}
+    </div>
+  </section>
+{% endfor %}
