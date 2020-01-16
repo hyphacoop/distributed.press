@@ -12,6 +12,9 @@
 
 - section: Today, centralized platforms wield disproportionate power
   text: |
+
+    ![distributed-press-0](images/distributed-press-0.svg)
+
     Of the [3.9 billion Internet users worldwide][3.9 billion Internet users worldwide],
 
     >Facebook now boasts 2.7 billion monthly users across its family of apps.
@@ -28,6 +31,9 @@
 
 - section: The distributed web is an emerging democratic alternative
   text: |
+
+    ![distributed-press-1](images/distributed-press-1.svg)
+
     A [vibrant and growing community][vibrant and growing community] is re-imagining the web, where "users" are first-class participants.
 
     > Beaker's success so far has been making authoring and publishing a first-class experience of the web, not as data submitted to a server, but as actual HTML sites authored from scratch. It's a love letter to the web's original design: "the creation of new links and new material by readers, [so that] authorship becomes universal".
