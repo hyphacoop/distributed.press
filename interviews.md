@@ -2,7 +2,7 @@
 
 **Distributed Press** is a proposal to build an open-source publishing tool for the distributed web. Our approach is to engage communities actively researching the many issues we face in content publishing today to create a tool that prioritizes content authors. In particular, we hope to learn from independent media that are practicing alternative publishing models, to investigate if and how the distributed web may augment this ecosystem.
 
-Find out more at [distributed.press][https://distributed.press] and if you are interested in having a conversation about possible ways we may collaborate, please get in touch!
+Find out more at [distributed.press](https://distributed.press) and if you are interested in having a conversation about possible ways we may collaborate, please get in touch!
 
 ## Interview Index
 
