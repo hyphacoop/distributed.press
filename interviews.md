@@ -1,37 +1,46 @@
 # Distributed Press Interviews
 
-- [badpennie](#badpennie)
-- [SoapDog](#SoapDog)
-- [Emmi Bevensee](#Emmi-Bevensee)
+**Distributed Press** is a proposal to build an open-source publishing tool for the distributed web. Our approach is to engage communities actively researching the many issues we face in content publishing today to create a tool that prioritizes content authors. In particular, we hope to learn from independent media that are practicing alternative publishing models, to investigate if and how the distributed web may augment this ecosystem.
 
-## badpennie
+Find out more at [distributed.press][https://distributed.press] and if you are interested in having a conversation about possible ways we may collaborate, please get in touch!
+
+## Interview Index
+
+- [badpennie](#badpennie) - 24 Jan 2020
+- [SoapDog](#SoapDog) - 29 Jan 2020
+- [Emmi Bevensee](#Emmi-Bevensee) - 5 Feb 2020
+- [Dawn Walker](#Dawn-Walker) - 5 Feb 2020
+- [Maria Bustillos](#Maria-Bustillos) - 3 Mar 2020
+- [Jack Jamieson](#Jack-Jamieson) - 16 Mar 2020
+
+## Template Agenda
+
+>- Personal intros
+>- Project intro
+>- Interview questions (don't have to answer all of them!)
+>    1. Who do you, or does your organization serve?
+>    2. Can you describe your experience in publishing and with distributed web technologies?
+>    3. What are some challenges you're seeing in these spaces? Why do these challenges exist?
+>    4. What projects in these spaces (of content publishing or distributed/p2p technologies) are you particularly excited about?
+>    5. What sorts of hurdles do you see us facing as we continue to work on this project? What words of advice can you give us from your experience?
+>    6. What are the problems you face relating to the premise of this project?
+>    7. What part of this project seems interesting to you?
+>    8. Are there areas that you'd like context and clarifications?
+>    9. What are some of the features you like about the tools you use today? What are some that you'd like to see in the future?
+>    10. Do you have other questions for us?
+>    11. Do you think there are other groups we must talk to?
+>    12. Do you have other recommendations for us?
+>    13. Can we publish this interview notes publicly under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)?
+
+## Session Notes
+
+### badpennie
 
 Date: 24 Jan 2020  
 Attendees:  
 - badpennie `P`
 - Mai `M`
 - Ben `B`
-
-### Agenda
-
-- Personal intros
-- Project intro
-- Interview questions (don't have to answer all of them!)
-    1. Who do you, or does your organization serve?
-    2. Can you describe your experience in publishing and with distributed web technologies?
-    3. What are some challenges you're seeing in these spaces? Why do these challenges exist?
-    4. What projects in these spaces (of content publishing or distributed/p2p technologies) are you particularly excited about?
-    5. What sorts of hurdles do you see us facing as we continue to work on this project? What words of advice can you give us from your experience?
-    6. What are the problems you face relating to the premise of this project?
-    7. What part of this project seems interesting to you?
-    8. Are there areas that you'd like context and clarifications?
-    9. What are some of the features you like about the tools you use today? What are some that you'd like to see in the future?
-    10. Do you have other questions for us?
-    11. Do you think there are other groups we must talk to?
-    12. Do you have other recommendations for us?
-    13. Can we publish this interview notes publicly under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)?
-
-## Notes
 
 - M:
     - Digital commons organizer and writer
@@ -118,34 +127,13 @@ Attendees:
     - Happy to help / host nodes etc.
     - Love the magazine approach
 
-## SoapDog
+### SoapDog
 
 Date: 29 Jan 2020  
 Attendees:  
 - SoapDog `S`
 - Udit `U`
 - Ben `B`
-
-### Agenda
-
-- Personal intros
-- Project intro
-- Interview questions (don't have to answer all of them!)
-    1. Who do you, or does your organization serve?
-    2. Can you describe your experience in publishing and with distributed web technologies?
-    3. What are some challenges you're seeing in these spaces? Why do these challenges exist?
-    4. What projects in these spaces (of content publishing or distributed/p2p technologies) are you particularly excited about?
-    5. What sorts of hurdles do you see us facing as we continue to work on this project? What words of advice can you give us from your experience?
-    6. What are the problems you face relating to the premise of this project?
-    7. What part of this project seems interesting to you?
-    8. Are there areas that you'd like context and clarifications?
-    9. What are some of the features you like about the tools you use today? What are some that you'd like to see in the future?
-    10. Do you have other questions for us?
-    11. Do you think there are other groups we must talk to?
-    12. Do you have other recommendations for us?
-    13. Can we publish this interview notes publicly under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)?
-
-### Notes
 
 - Personal intros
     - U: based out of Toronto, knew Ben from Toronto Mesh, met at Civic Tech Toronto, where we talk about civic issues and how ppl in tech space can help with some problems, background in engineering, most recently Hypha Co-operative, distributed.press is one of the projects we want to pursue
@@ -250,7 +238,7 @@ Attendees:
                 - https://github.com/CondeNast/atjson
             - Tantek: twitter.com/t
 
-## Emmi Bevensee
+### Emmi Bevensee
 
 Date: 5 Feb 2020  
 Attendees:  
@@ -258,27 +246,6 @@ Attendees:
 - Quinn Dougherty (mostly listen mode) `Q`
 - Mai `M`
 - Ben `B`
-
-### Agenda
-
-- Personal intros
-- Project intro
-- Interview questions (don't have to answer all of them!)
-    1. Who do you, or does your organization serve?
-    2. Can you describe your experience in publishing and with distributed web technologies?
-    3. What are some challenges you're seeing in these spaces? Why do these challenges exist?
-    4. What projects in these spaces (of content publishing or distributed/p2p technologies) are you particularly excited about?
-    5. What sorts of hurdles do you see us facing as we continue to work on this project? What words of advice can you give us from your experience?
-    6. What are the problems you face relating to the premise of this project?
-    7. What part of this project seems interesting to you?
-    8. Are there areas that you'd like context and clarifications?
-    9. What are some of the features you like about the tools you use today? What are some that you'd like to see in the future?
-    10. Do you have other questions for us?
-    11. Do you think there are other groups we must talk to?
-    12. Do you have other recommendations for us?
-    13. Can we publish this interview notes publicly under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)?
-
-### Notes
 
 - Personal intros
     - Q:
@@ -360,3 +327,144 @@ Attendees:
 - B: Questions or how Distributed Press could be useful to you?
     - E: Ideas about publishing my paper onto the dweb
     - E: Keep me updated about the project
+
+### Dawn Walker
+
+Date: 5 Feb 2020  
+Attendees:  
+- Dawn Walker `DC`
+- Udit
+
+Udit chatted with DC about Distributed Press on Feb 5th 2020. Here is a transcription of key ideas we talked about:
+
+- Lots of prior art to draw from, particularly those taking a journalistic lens (i.e. in a "changing newsroom" context)
+    - [Mastodon example in India](https://qz.com/india/1746734/angry-twitter-india-users-are-migrating-to-mastodon-in-thousands/)
+        - "A lot of Twitter users are unhappy with the way the microblogging site has allegedly censored content, restricted accounts, and failed to act against trolls. This includes subtle casteism, wherein only accounts of people belonging to the scheduled castes, scheduled tribes, and other backward castes’ are being moderated."
+    - [Catalan government side-steps Spain’s legal block by republishing information on IPFS](http://la3.org/~kilburn/blog/catalan-government-bypass-ipfs/)
+- Projects in adjacent spaces
+    - Decentralized Broadcast or [db](https://broadcast.sh/) "is a peer-to-peer broadcasting service, owned and funded by its listeners, DJ’s, and producers."
+    - [Arso](https://arso.xyz) focused on preservation 
+- What should we focus on?
+    - DC's take: find ways to support people's livelihoods
+    - Also it's important to avoid lock-in, reach people where they are
+        - eg. Indieweb serves to glue existing tools and spaces together; modifying by integrating; 
+        - :heart: Lucy Suchman's "Located accountabilities in technology" principles [paper](https://dl.acm.org/doi/10.5555/782686.782694)
+    - Allow republishing onto multiple platforms
+    - [Substack](https://substack.com/) is an interesting example of a subscription model, meeting people in their inbox
+- Journal examples to draw inspiration from:
+    - [First Monday](https://firstmonday.org/) is a peer reviewed journal on the internet
+    - [Catalyst](https://catalystjournal.org/) is a journal of feminism and technoscience. From their website: "access will remain an on-going project, a reflexive, collaborative, and distributed effort in digital and disability design."
+    - [Logic](https://logicmag.io/) is a larger and more mainstream publication
+    - DC suggests talking to individuals from these journals, has some contacts
+- Lots of writing about the dweb, and a lot of it is narrow and researcher heavy, or ecosystem and product-specific
+    - E.g. IPFS weekly, Dat newsletter, and SSB weekly
+    - If we are publishing content, think about what more can we say about the dweb that hasn't been said before? Aesthetics (e.g. solar punk)? New and experimental content and media?
+
+### Maria Bustillos
+
+Date: 3 Mar 2020  
+Attendees:  
+- Maria Bustillos `P`
+- Mai `M`
+- Ben `B`
+
+_Pending review_
+
+### Jack Jamieson
+
+Date: 16 Mar 2020  
+Attendees:  
+- Jack Jamieson `J`
+- Udit `U`
+- Ben `B`
+
+- Personal intros
+    - U: toronto mesh, community projects, met dawn and ben thru civic tech toronto
+    - J: phd student at University of Toronto, same office as dc, incorporate values into designing large network systems, got very interested in indieweb bc they are building individual website approach, rather than the social network, etc. focus on autonomy... that are served by decentralization rather than decentralization as an end, dissertation by ethnographic
+    - B: interested in community networks:
+        - form connectivity without going through intermediaries
+        - solidarity aspect: bringing technology to the "human level"
+        - increasingly less attracted to projects where goal is internet connectivity, more focus on "the internet that we want"
+- U: early stage in project, convo with ppl in popula, dat, etc.
+    - news and opinion public space
+    - governance, ownership and control, credibility, fact checking, decline of independent media, payment to authors
+    - instead of one web, how can we empower connectivity across emerging ecosystems
+    - haven't spoken to folks with indieweb experience
+- U: thoughts on publishing on the indieweb right now
+    - J: may not be the best rep of everyone's opinion
+    - interested in publishing, from personally don't post that much
+    - why I go interested... was the idea of independent websites, using simple html not entirely new ecosystems, felt accessible, reminded me of why I got excited about the internet in the first place, geocities, mom's small biz when in highschool
+    - "get your own domain name, put whatever you want on there as your website" feel strongly about
+    - indieweb is based on a familiar, well-established set of technologies
+- U: what is the status of indieweb now, uptake, etc.
+    - J: viewed from outside as "for geeks", need technical expertise
+    - number of users, perhaps thousands, hard to measure (tool found 3000 domains) + some hosted services like micro.blog and withknown.com (commercial ambitions)
+        - micro.blog (twitter alternative): hosted at $5 a month, can syndicate to it
+        - withknown.com: more full feature blogging service, maybe defunct as a service, but software still used (e.g. university settings)
+            - part of the challenge was the paid service / free open source dual goals not always in sync
+    - U: it's kind of in between, not for developers and not super easy for everyone...?
+        - J: developer focused community, not a platform but built a set of standards and practices, led to something like micro.blog
+        - feels like micro.blog is slow burn but more sustainable
+- U: syndication, talk about a bit?
+    - J: publish on own site, sync everywhere
+    - automated tools to syndicate (e.g. github, twitter), but also can do manually
+    - brid.gy is a most popular tool
+        - can backfeed (auto go out to twitter and responses on twitter comes back and can respond by posting a comment on own website)
+        - two ways to interact with the fediverse
+            - (e.g. fed.bridgy) turn your node into a fediverse hub
+            - sync to mastadon
+        - structuring data in a consistent way is a challenge
+        - U: ssb and dat?
+            - J: maybe can have a dat site on indieweb
+            - ssb is not so focused on publishing to publicly posting, not aware of good bridges to ssb
+        - U: payment models?
+            - J: doesn't come up very much, payment model requires some kind of encryption whereas indieweb is mostly web based, there may be potential? not very knowledgable about this
+        - U: what are indieweb ppl talking about indieweb right now
+            - J: writing dissertation, deliberately not looking at updates!
+            - syndication to major sites (e.g. facebook) got a lot harder since 2018 (cambridge analytica) when they tightened api
+            - a ton of work went into syndicating facebook before
+            - a lot of emphasis on readers in past few years
+            - building syndication tools and publishing tools, now focus on reader (e.g. microsub) having your own social timeline
+        - J: microsub
+            - separate out backend and frontend (many projects are modular in the ecosystem)
+            - server: track what feeds you're subscribing to (e.g. websub, polling) the feed can be in any format (e.g. rss, atom, microformats)
+                - webmentions: send from one website to another, w3c spec
+                    - 2 pcs of info: _source_ and _target_
+                    - likes, etc. (on it's own, just the mention, not too much info)
+                    - used with microformats
+                - semantic web css markup
+                    - e.g. this is the author
+                - check the source website to ensure this is a real mention, parse the microformat to render
+                    - B: can we do static site gen?
+                        - J: there are, receiving a webmention are outsourced to third party (e.g. webmention.io)
+                        - html to define webmention endpoint, when you receive it delivers to that URL (e.g. can be a third party service)
+                        - also authentication services are often farmed out to third parties
+                    - B: do things break all the time?
+                        - J: mostly things work very smoothly
+                        - use wordpress, back then sometimes a new plugin breaks things but things been improved for a long time and are stable and reliable now (small standards help!)
+                            - U: how are these standards evolved?
+                                - J: irc bridged to slack and stuff, standards drafted in wiki, etc. large standards at w3c (e.g. webmention, micropub, etc.)
+                                - microformat preceded the indieweb
+                    - J: rather than subscribe to rss, can subscribe to an **h-feed**, which is a html page with microformats in it (don't have to duplicate the browser version vs. what some other readers see)
+                        - in theory, less maintaince... in practice, can work well if using a system designed for that but using a wordpress (format designed in theme) there are some edge cases
+                        - B: challenge with syndication: hard to define common language?
+                            - How do we determine what the right formats are? Markdown? HTML?
+                            - J: lot of merit in using html. no need to build api because the webpage is where everything is anyway. writing parsers is simple too
+                        - B: cross formats? format of authorship vs. storage vs. distribution
+                            - J: already done in static stat gen, md becomes html
+                            - B: e.g. ssb clients renders md based content, html will make everyone write a web browser
+                                - J: html is much more rich, so syndicating in md or tweet, things will be lost
+                                - but indieweb, ppl can have their own website as the original (e.g. so tweets make sense)
+- J: misinformation is top of mind recently
+- personal opinion is to not reach a billion people but take a more decentralized approach to moderation
+- echos bens sentiments that empowering small communities > getting everyone on the same central network
+- indieweb good at looking at walled garden issues, censorship isn't an issue because people tend to group together based on values/interests
+- w3c standards enables interoperability and prevents censorship from a technical standpoint
+- near moderation in ssb is really exciting
+- in progress indieweb tool called "vouch"
+    - extention to webmentions, vouching on behalf of others
+- unlock-protocol
+    - `werd.io` from indieweb was involved
+- syndication: bridgy (very well written and documented source)
+- recommend building something small and growing over time
+- recommend talking to indieweb folks (active and very friendly community) https://chat.indieweb.org
