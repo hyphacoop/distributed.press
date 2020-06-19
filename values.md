@@ -1,4 +1,7 @@
-# Distributed Press Values
+---
+layout: page
+title: Our Values
+---
 
 ## Purpose
 
@@ -17,8 +20,9 @@ We put forth these values to guide our actions and decisions as we aspire to bui
 7. **Human Rights** — We especially uphold people's right to privacy, free expression, and knowledge. As we strive to build a more equitable and humane world, we acknowledge the ways in which the rights of marginalized communities require more active recognition and protection.
 8. **The Commons** — We strive to build and steward the commons. This means our tools will use, create, and promote shared resources and social practices that are maintained by communities in a sustainable manner.
 
-## References
+---
 
-- Detroit Digital Justice Coalition values: https://www.alliedmedia.org/ddjc/principles
-- APC's Feminist Principles of the Internet: https://feministinternet.org/en/principles
-	- Easier to read: https://www.apc.org/en/pubs/feminist-principles-internet-version-20
+### References
+
+[1] [Detroit Digital Justice Coalition values](https://www.alliedmedia.org/ddjc/principles)  
+[2] [APC's Feminist Principles of the Internet](https://feministinternet.org/en/principles) ([easier to read](https://www.apc.org/en/pubs/feminist-principles-internet-version-20))  

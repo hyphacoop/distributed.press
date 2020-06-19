@@ -1,21 +1,29 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="{{ site.description }}">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ site.title }}</title>
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/main.css">
-  {% include head.html %}
-  </head>
-  <body>
-    <div class="container">
-      <h1><a href="./">{{ site.title }}</a></h1>
-    </div>
-    {{ content }}
-    {% include scripts.html %}
-  </body>
+<html lang="{{ site.lang }}" prefix="og: http://ogp.me/ns#">
+<head>
+	{% include head.html %}
+</head>
+<body>
+	{% if page.cover-image %}
+	<div class="cover-image-container">
+		<img alt="Cover image" src="{{ site.baseurl }}/img/covers/{{ page.cover-image }}">
+	</div>
+	{% endif %}
+	<div class="wrap">
+		{% include header.html %}
+		{{ content }}
+	  <script>
+	    $("article").fitVids();
+	    $('article p').each(function(i){
+				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
+					$(this).addClass('img-only');
+				}
+				if ($.trim($(this).text()).length - $.trim($(this).find('small').text()).length == 0 && ($(this).find('img').length)){
+					$(this).addClass('img-only-source');
+				}
+	  	});
+	  </script>
+	</div>
+	{% include footer.html %}
+</body>
 </html>
