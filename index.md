@@ -96,19 +96,19 @@ Research methods:
 
 Our project team with experience in the distributed web, community mesh networks, and content publishing is seeking **partners** and **funders** to help us launch this project in 2020.
 
-- **Benedict Lau**  
-  _Founding Member, Hypha Worker Co-operative / Toronto Mesh_  
-  formerly _Network Coordinator, DWeb Camp 2019_
+- **Mai Sutton**  
+  _Steward, People's Open Network / Disaster Radio_  
+  formerly _Associate Producer of DWeb Projects, Internet Archive_  
+  formerly _Global Policy Analyst, Electronic Frontier Foundation_
 
 - **Udit Vira**  
   _Strategist, Studio From Later_  
   _Member, STEAMLink Network / Toronto Mesh_  
   formerly _Contributing Writer, M/I/S/C Magazine_
 
-- **Mai Sutton**  
-  _Steward, People's Open Network / Disaster Radio_  
-  formerly _Associate Producer, DWeb Camp 2019_  
-  formerly _Global Policy Analyst, Electronic Frontier Foundation_
+- **Benedict Lau**  
+  _Founding Member, Hypha Worker Co-operative / Toronto Mesh_  
+  formerly _Network Coordinator, DWeb Camp 2019_
 
 ## Let's chat!
 
