@@ -1,6 +1,8 @@
+*We’re soon launching [COMPOST](https://compost.digital), a magazine about the digital commons, telling stories about people building the Internet as a shared resource. The new site is coming soon so stay tuned!*
+
 ## Our Vision
 
-We are building the _Distributed Press_—a beginner friendly, open-source publishing tool for the distributed web. Aiming to empower authors, _Distributed Press_ utilizes the distributed web to amplify free expression worldwide, while exposing sources of misinformation.
+We are building the _Distributed Press_ — a beginner friendly, open-source publishing tool for the distributed web. Aiming to empower authors, _Distributed Press_ utilizes the distributed web to amplify free expression worldwide, while exposing sources of misinformation.
 
 We all have a sense of the wide-ranging and complex issues facing publishing today: political censorship, disinformation, walled gardens, and the [decline of independent media][decline of independent media]. Yet the solutions to these challenges remain unclear. Working with authors, audiences, and distributed web communities, we hope to co-develop new tools, in order to make publishing fair, democratic, and dignified for all.
 
@@ -28,18 +30,11 @@ Facebook, Tencent, and Google now mediate a majority of global public discourse.
 [influence political outcomes]: https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal
 [anti-competitive market]: https://ec.europa.eu/commission/presscorner/detail/en/IP_19_1770
 
-## The distributed web is an emerging democratic alternative
+## The distributed web presents emerging alternatives
 
 ![distributed-press-1](img/distributed-press-1.svg)
 
-A [vibrant and growing community][vibrant and growing community] is re-imagining the web, where "users" are first-class participants.
-
-> Beaker's success so far has been making authoring and publishing a first-class experience of the web, not as data submitted to a server, but as actual HTML sites authored from scratch. It's a love letter to the web's original design: "the creation of new links and new material by readers, [so that] authorship becomes universal".
->
-> -- André Staltz, _[The Year Tech Giants Peaked – 2018, A Retrospective][The Year Tech Giants Peaked – 2018, A Retrospective]_
-
-[vibrant and growing community]: https://kumu.io/DigLife/decentralized-tech
-[The Year Tech Giants Peaked – 2018, A Retrospective]: https://staltz.com/the-year-tech-giants-peaked-2018-a-retrospective.html#peer-to-peer-grassroots
+The promise of the Distributed Web (DWeb) is that it gives everyone the ability to control their digital networks and platforms. In distributed networks, the underlying code, data, and network infrastructure are managed by many. 
 
 ## We are trapped by network effects
 
@@ -76,6 +71,9 @@ We plan to utilize tools such as the [OONI Probe][OONI Probe] to measure worldwi
 [OONI Probe]: https://ooni.org/nettest/
 [offline mesh networks]: https://edgeryders.eu/t/a-radically-new-internet-a-study-on-p2p-protocols-and-mesh-networks/9802
 
+**Our goal over the next three years is to deploy and maintain an open source tool that authors can use to publish content to the DWeb and WWW.** The tool will streamline distribution and monetization on the DWeb, editorial and fact checking, and guide authors to establish creator owned cooperative publications. In turn, the tool will be sustained by the federation of cooperative publications it enables.
+
+
 ## Research will be made public for a wider community of researchers and developers
 
 Research topics:
@@ -92,25 +90,26 @@ Research methods:
 - Technical prototyping with available distributed web protocols and tools
 - Co-creation activities with content authors and readers
 
-## Project status
+## Project team
+Our project team has experience in the distributed web, community networks, cooperative governance, and content publishing. 
 
-Our project team with experience in the distributed web, community mesh networks, and content publishing is seeking **partners** and **funders** to help us launch this project in 2020.
+- **Mai Sutton**
+Associate Producer of DWeb Projects, Internet Archive
+Steward, People’s Open Network / Disaster Radio
+formerly Global Policy Analyst, Electronic Frontier Foundation
 
-- **Mai Sutton**  
-  _Steward, People's Open Network / Disaster Radio_  
-  formerly _Associate Producer of DWeb Projects, Internet Archive_  
-  formerly _Global Policy Analyst, Electronic Frontier Foundation_
+- **Udit Vira**
+Strategist, Studio From Later
+Member, STEAMLink Network / Toronto Mesh
+formerly Contributing Writer, M/I/S/C Magazine
 
-- **Udit Vira**  
-  _Strategist, Studio From Later_  
-  _Member, STEAMLink Network / Toronto Mesh_  
-  formerly _Contributing Writer, M/I/S/C Magazine_
+- **Benedict Lau**
+Founding Member, Hypha Worker Co-operative / Toronto Mesh
+formerly Network Coordinator, DWeb Camp 2019
 
-- **Benedict Lau**  
-  _Founding Member, Hypha Worker Co-operative / Toronto Mesh_  
-  formerly _Network Coordinator, DWeb Camp 2019_
 
-## Let's chat!
+## Let’s chat!
+We’re seeking partners and funders to help us launch this project in 2020. If you’re interested in being involved, please reach out: 
 
 [hello@distributed.press][hello@distributed.press]
 
