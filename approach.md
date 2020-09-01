@@ -15,7 +15,7 @@ The discussions covered a range of themes related to publishing: challenges with
 Some notes from these interviews can be found on [GitHub](https://github.com/hyphacoop/distributed.press/blob/master/interviews.md).
 We learned about a number of adjacent initiatives that we were unaware of until these interviews, prompting us to explore new territories. Here, we found new collaborators for the next phase of our project.
 
-We would like to recognize badpennie, SoapDog, Emmi Bevensee, Dawn Walker, Maria Bustillos, Jack Jamieson, and others who wish to stay anonymous, for their invaluable input at this phase of the _Distributed Press_ project, as well as Ace Volkov for his contribution of illustrations on our project website.
+We would like to recognize badpennie, SoapDog, Emmi Bevensee, Dawn Walker, Maria Bustillos, Jack Jamieson, and others who wish to stay anonymous, for their invaluable input at this phase of the Distributed Press project, as well as Ace Volkov for his contribution of illustrations on our project website.
 Since these interviews, our project team has discussed our learnings extensively, synthesizing the information internally and with our collaborators, to propose the next phase of our project.
 
 ## Phase 2: Building an author-owned magazine on the DWeb
@@ -25,6 +25,6 @@ We're creating [COMPOST](https://compost.digital), a magazine about the digital 
 In recognition that quality content is often the work of diverse teams of authors, editors, artists, and photographers, the tool we build must enable reliable livelihoods and democratic participation for all.
 These ambitions are in common with our vision of a sustainable open Web and the labor behind the free software that enables it.
 
-_Distributed Press_ will publish content to the World Wide Web and Distributed Web, while giving authors greater control over monetization through democratic ownership of online publications, and we will prototype our publishing tools and practices through COMPOST.
+Distributed Press will publish content to the World Wide Web and Distributed Web, while giving authors greater control over monetization through democratic ownership of online publications, and we will prototype our publishing tools and practices through COMPOST.
 
 If you are interested in having a conversation about possible ways we may collaborate, [please get in touch](mailto:hello@distributed.press)!
