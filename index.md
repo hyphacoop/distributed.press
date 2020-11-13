@@ -93,18 +93,18 @@ Research methods:
 ## Project team
 Our project team has experience in the distributed web, community networks, cooperative governance, and content publishing. 
 
-- **Mai Sutton**
-Associate Producer of DWeb Projects, Internet Archive
-Steward, People’s Open Network / Disaster Radio
+- **Mai Sutton**  
+Associate Producer of DWeb Projects, Internet Archive  
+Steward, People’s Open Network / Disaster Radio  
 formerly Global Policy Analyst, Electronic Frontier Foundation
 
-- **Udit Vira**
-Strategist, Studio From Later
-Member, STEAMLink Network / Toronto Mesh
+- **Udit Vira**  
+Strategist, Studio From Later  
+Member, STEAMLink Network / Toronto Mesh  
 formerly Contributing Writer, M/I/S/C Magazine
 
-- **Benedict Lau**
-Founding Member, Hypha Worker Co-operative / Toronto Mesh
+- **Benedict Lau**  
+Founding Member, Hypha Worker Co-operative / Toronto Mesh  
 formerly Network Coordinator, DWeb Camp 2019
 
 
