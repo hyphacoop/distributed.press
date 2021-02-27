@@ -2,10 +2,10 @@
 ---
 
 ::selection {
-  background: rgba({{ site.theme-color }}, .2);
+  background: rgba({{ site.theme-color }}, .5);
 }
 ::-moz-selection {
-  background: rgba({{ site.theme-color }}, .2);
+  background: rgba({{ site.theme-color }}, .5);
 }
 .clearfix:after {
   visibility: hidden;
@@ -23,7 +23,7 @@ body {
   font-size: 20px;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
-  color: rgba({{ site.text-color }}, .8);
+  color: rgba({{ site.text-color }});
   background-color: rgb({{ site.background-color }});
   background-repeat: no-repeat;
   background-size: 100%;
@@ -144,10 +144,10 @@ tr:last-child {
   border: none;
 }
 thead {
-  border-bottom: 2px solid rgba({{ site.theme-color }}, .4);
+  border-bottom: 2px solid rgba({{ site.theme-color }});
 }
 tfoot {
-  border-top: 2px solid rgba({{ site.theme-color }}, .4);
+  border-top: 2px solid rgba({{ site.theme-color }});
 }
 blockquote {
   padding: 0 20px;
@@ -157,7 +157,7 @@ blockquote::before,
 blockquote::after {
   font-weight: 400;
   font-size: 80px;
-  color: rgba({{ site.theme-color }}, .4);
+  color: rgba({{ site.theme-color }});
   display: block;
   text-align: center;
   vertical-align: bottom;
@@ -212,7 +212,7 @@ small a {
 }
 hr {
   border:none;
-  background-color: rgba({{ site.theme-color }}, .4);
+  background-color: rgba({{ site.theme-color }});
   margin: 60px auto;
   width: 30%;
   height: 2px;
@@ -253,8 +253,9 @@ header {
   color: rgba({{ site.text-color }},.5);
 }
 header img {
-  height: 32px;
+  width: 100%;
   display: inline-block;
+  margin-top: 32px;
 }
 nav {
   margin: 20px 0;
@@ -270,7 +271,7 @@ header::after {
   font-size: 60px;
   display: block;
   text-align: center;
-  color: rgba({{ site.theme-color }}, 0.4);
+  color: rgba({{ site.theme-color }});
 }
 article:last-of-type::after {
   content: "";

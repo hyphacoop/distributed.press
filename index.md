@@ -1,4 +1,4 @@
-*We’re soon launching [COMPOST](https://compost.digital), a magazine about the digital commons, telling stories about people building the web as a shared resource. The new site is coming soon so stay tuned!*
+*We’re soon launching [COMPOST](https://compost.digital), a magazine about the digital commons, telling stories about people building the web as a shared resource. COMPOST is published to the web and DWeb using the [Distributed Press API](https://github.com/hyphacoop/api.distributed.press).*
 
 ## Our Vision
 
