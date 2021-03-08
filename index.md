@@ -93,7 +93,6 @@ We plan to utilize tools such as the [OONI Probe][OONI Probe] to measure worldwi
 
 **Our goal over the next three years is to deploy and maintain an open source tool that authors can use to publish content to the DWeb and WWW.** The tool will streamline distribution and monetization on the DWeb, editorial and fact checking, and guide authors to establish creator owned cooperative publications. In turn, the tool will be sustained by the federation of cooperative publications it enables.
 
-
 ## Research will be made public for a wider community of researchers and developers
 
 Research topics:
@@ -109,6 +108,8 @@ Research methods:
 - Secondary research looking at existing literature
 - Technical prototyping with available distributed web protocols and tools
 - Co-creation activities with content authors and readers
+
+---
 
 ## Project team
 Our project team has experience in the distributed web, community networks, cooperative governance, and content publishing. 
