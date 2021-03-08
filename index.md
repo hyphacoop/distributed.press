@@ -131,8 +131,4 @@ formerly Network Coordinator, DWeb Camp 2019
 
 
 ## Let’s chat!
-We’re seeking partners and funders to help us launch this project in 2020. If you’re interested in being involved, please reach out: 
-
-[hello@distributed.press][hello@distributed.press]
-
-[hello@distributed.press]: mailto:hello@distributed.press
+If anything here interests you, and you want to explore collaborations, get in touch with us at `hello [at] distributed.press`.
