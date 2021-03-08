@@ -1,18 +1,18 @@
-**Check out [COMPOST](https://compost.digital), a magazine about the digital commons, telling stories about people building the web as a shared resource.** COMPOST is published to the web and DWeb using the [Distributed Press API](https://github.com/hyphacoop/api.distributed.press).
+**Check out [COMPOST](https://compost.digital), a magazine about the digital commons, telling stories about people building the web as a shared resource.** COMPOST is published to the web and [DWeb](https://getdweb.net) using the [Distributed Press API](https://github.com/hyphacoop/api.distributed.press).
 
 ---
 
-**Distributed Press** is an open source publishing tool for the World Wide Web and DWeb. It automates publishing and hosting content to the WWW that it seeds to Hypercore and IPFS. We are currently adding new features to deliver verifiable content to decentralized social networks like Aether and Scuttlebutt.
+**Distributed Press** is an open source publishing tool for the World Wide Web and [DWeb](https://getdweb.net). It automates publishing and hosting content to the WWW that it seeds to [Hypercore](https://hypercore-protocol.org/) and [IPFS](https://ipfs.io). We are currently adding new features to deliver verifiable content to decentralized social networks like [Aether](https://getaether.net/) and [Scuttlebutt](https://scuttlebutt.nz/).
 
-In addition to seeding content, the Distributed Press API also seeds other project data over DWeb protocols. For example, the current Monetization API integrates with Ethereum and Open Collective to provide real-time project funding information. In the future, these APIs will support content verification and social messaging across DWeb ecosystems.
+In addition to seeding content, the [Distributed Press API](https://github.com/hyphacoop/api.distributed.press) also seeds other project data over DWeb protocols. For example, the current Monetization API integrates with Ethereum and Open Collective to provide real-time project funding information. In the future, these APIs will support content verification and social messaging across DWeb ecosystems.
 
 Distributed Press is currently alpha software. This is the list of current projects using the tool.
 
 | Domain                  | Description |
 |:------------------------|:------------|
 | staging.compost.digital | Example website for Distributed Press |
-| compost.digital         | Website of COMPOST magazine |
-| hypha.coop              | Website of Hypha Worker Co-operative |
+| one.compost.digital     | Website of [COMPOST magazine Isssue O1](https://one.compost.digital) |
+| hypha.coop              | Website of [Hypha Worker Co-operative](https://hypha.coop) |
 | sutty.ml                | Experimental website mirror of [Sutty](https://sutty.nl/en/) |
 
 ---
