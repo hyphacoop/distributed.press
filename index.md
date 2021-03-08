@@ -11,7 +11,7 @@ Distributed Press is currently alpha software. This is the list of current proje
 | Domain                  | Description |
 |:------------------------|:------------|
 | staging.compost.digital | Example website for Distributed Press |
-| one.compost.digital     | Website of [COMPOST magazine Isssue O1](https://one.compost.digital) |
+| one.compost.digital     | Website of [COMPOST magazine Issue O1](https://one.compost.digital) |
 | hypha.coop              | Website of [Hypha Worker Co-operative](https://hypha.coop) |
 | sutty.ml                | Experimental website mirror of [Sutty](https://sutty.nl/en/) |
 
