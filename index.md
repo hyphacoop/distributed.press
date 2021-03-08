@@ -1,5 +1,8 @@
 **Check out [COMPOST](https://compost.digital), a magazine about the digital commons, telling stories about people building the web as a shared resource.** COMPOST is published to the web and [DWeb](https://getdweb.net) using the [Distributed Press API](https://github.com/hyphacoop/api.distributed.press).
 
+![](img/2021-03-06-one-brave-ipns.png)
+_COMPOST magazine viewed over IPFS on the Brave Browser with Web Monetization extension._
+
 ---
 
 **Distributed Press** is an open source publishing tool for the World Wide Web and [DWeb](https://getdweb.net). It automates publishing and hosting content to the WWW that it seeds to [Hypercore](https://hypercore-protocol.org/) and [IPFS](https://ipfs.io). We are currently adding new features to deliver verifiable content to decentralized social networks like [Aether](https://getaether.net/) and [Scuttlebutt](https://scuttlebutt.nz/).
