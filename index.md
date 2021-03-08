@@ -1,4 +1,21 @@
-*We’re soon launching [COMPOST](https://compost.digital), a magazine about the digital commons, telling stories about people building the web as a shared resource. COMPOST is published to the web and DWeb using the [Distributed Press API](https://github.com/hyphacoop/api.distributed.press).*
+**Check out [COMPOST](https://compost.digital), a magazine about the digital commons, telling stories about people building the web as a shared resource.** COMPOST is published to the web and DWeb using the [Distributed Press API](https://github.com/hyphacoop/api.distributed.press).
+
+---
+
+**Distributed Press** is an open source publishing tool for the World Wide Web and DWeb. It automates publishing and hosting content to the WWW that it seeds to Hypercore and IPFS. We are currently adding new features to deliver verifiable content to decentralized social networks like Aether and Scuttlebutt.
+
+In addition to seeding content, the Distributed Press API also seeds other project data over DWeb protocols. For example, the current Monetization API integrates with Ethereum and Open Collective to provide real-time project funding information. In the future, these APIs will support content verification and social messaging across DWeb ecosystems.
+
+Distributed Press is currently alpha software. This is the list of current projects using the tool.
+
+| Domain                  | Description |
+|:------------------------|:------------|
+| staging.compost.digital | Example website for Distributed Press |
+| compost.digital         | Website of COMPOST magazine |
+| hypha.coop              | Website of Hypha Worker Co-operative |
+| sutty.ml                | Experimental website mirror of [Sutty](https://sutty.nl/en/) |
+
+---
 
 ## Our Vision
 
@@ -94,18 +111,20 @@ Research methods:
 Our project team has experience in the distributed web, community networks, cooperative governance, and content publishing. 
 
 - **Mai Sutton**  
+Co-founder, Lead Editor & Community Steward, COMPOST magazine  
 Associate Producer of DWeb Projects, Internet Archive  
 Steward, People’s Open Network / Disaster Radio  
-formerly Global Policy Analyst, Electronic Frontier Foundation
+formerly Global Policy Analyst, Electronic Frontier Foundation  
 
 - **Udit Vira**  
-Strategist, Studio From Later  
-Member, STEAMLink Network / Toronto Mesh  
-formerly Contributing Writer, M/I/S/C Magazine
+Co-founder, Product Lead, COMPOST magazine  
+Founding Member, Hypha Worker Co-operative   
+Strategist, studio From Later  
 
 - **Benedict Lau**  
-Founding Member, Hypha Worker Co-operative / Toronto Mesh  
-formerly Network Coordinator, DWeb Camp 2019
+Co-founder, Distributed System Engineer & Technical Lead, COMPOST magazine      
+Founding Member, Hypha Worker Co-operative / Toronto Mesh   
+formerly Network Coordinator, DWeb Camp 2019  
 
 
 ## Let’s chat!
