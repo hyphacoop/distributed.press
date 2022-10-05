@@ -1,95 +1,34 @@
-
-# The name of your website.
+---
 name: Distributed Press
-
-description:
-
-  # Description of your site. This will show up in google.
-  meta: A beginner friendly, open-source publishing tool for the distributed web.
-
-  # Description of your site. This will show up on the front page.
-  subtitle: A beginner friendly, open-source publishing tool for the distributed web.
-
+description: A beginner friendly, open-source publishing tool for the distributed
+  web.
 author:
   name: Distributed Press
-
-  # Necessary for contact page
   email: hello@distributed.press
-
-  # Optional text (html) to display after author name. Leave empty if you don't
-  # want it.
   info:
-
-url: https://distributed.press
-baseurl: ""
-
-# language attribute in <html> element.
-locales:  
-  - en
-
-# FROM THIS POINT ON EVERYTHING IS OPTIONAL
-
-##############
-# APPEREANCE #
-##############
-
-# If you want to show the subtitle anywhere else than the front page, use
-# {% include subtitle.html %} to include it anywhere you want.
+url: https://distributed-press.sutty.nl/
+baseurl: ''
+locales:
+- en
 show-subtitle: true
 display-social-icons: false
-# If you want social links to open in a new tab, set this as true
 social-icons-open-newtab: true
-
-footer-text: This website is built with <a href="https://jekyllrb.com">Jekyll</a> and uses the <a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.
-
-# Preferably 64px in height. Leave empty = disable.
-logo-image: /img/logos/logo-distributedpress-grey.svg
-
-# Toolbar color for Chrome on Android.
+footer-text: This website is built with <a href="https://jekyllrb.com">Jekyll</a>
+  and uses the <a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll
+  theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.
+logo-image: "/img/logos/logo-distributedpress-grey.svg"
 theme-color-attr: "#ff0040"
-
-# Color of Microsoft live Tile.
 ms-tile-color: "#ff0040"
-
-# Color used throughout the theme. Format: R, G, B.
-theme-color: 255, 0, 64 # Original: 0, 240, 255
-
-# Text color used throughout the theme. Format: R, G, B.
-text-color: 65, 64, 66 # Original: 0, 0, 0
-
-# Background color used throughout the theme. Format: R, G, B.
-# Note: if you change the background color AND you use cover images, you should
-#       also change the CSS gradient in "_includes\gradient.css" to match the
-#       background color. Edit and copy it from here:
-#       http://www.colorzilla.com/gradient-editor/#ffffff+0,ffffff+100&0+0,1+100
-background-color: 255, 255, 255 # Original: 255, 255, 255
-
+theme-color: 255, 0, 64
+text-color: 65, 64, 66
+background-color: 255, 255, 255
 display-author-post-page: true
 display-author-front-page: true
-
-# http://alanwsmith.com/jekyll-liquid-date-formatting-examples
 date_format: "%b %-d, %Y"
-
-# Minimal screen-width after which the navigation will change position from
-# vertical to horizontal.
 nav-breaking-point: 520px
-
-# Number of posts on each page.
 paginate: 3
-
-# Display links for the previous and next post on post pages.
 display-next-prev-post: false
-
-# Leave empty if you don't want comments on post pages.
 disqus-shortname:
-
-
-################
-# SOCIAL ICONS #
-################
-
-# Use a complete url here, including http:// and such. Requiring just usernames
-# has been considered, but this is way more customizable.
 twitter:
 youtube:
 instagram:
@@ -108,45 +47,31 @@ trello:
 stack-overflow:
 bitcoin:
 paypal:
-
-
-#####################
-# CUSTOMIZABLE TEXT #
-#####################
-
-# Useful for translating into other languages.
-
 var_on_the_web: On the web
-var_read: Read # Text after each post summary on the homepage.
+var_read: Read
 var_newer: Newer
 var_older: Older
 var_next_post: Next post
 var_previous_post: Previous post
 var_less_than_a_minute_read: Less than a minute read
-var_min_read: min read # Text after reading time. Example: 5 min read.
+var_min_read: min read
 var_post_by: Post by
 var_guest_post_by: Guest post by
 var_your_email: Your email
 var_your_message: Your message
-
-
-##################
-# BUILD SETTINGS #
-##################
-
-# You don't have to change these.
-
-exclude: [vendor]
+exclude:
+- vendor
 highlighter: rouge
 kramdown:
   input: GFM
 paginate_path: "/page-:num/"
 permalink: pretty
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      excerpt_separator: "<!--more-->"
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    excerpt_separator: "<!--more-->"
+title: Distributed Press
+hostname: distributed-press.sutty.nl
