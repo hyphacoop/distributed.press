@@ -2,7 +2,6 @@
 title: Distributed Press
 description: DP
 author: []
-permalink: false
 order: 0
 layout: home
 uuid: 75b45003-b8b9-4821-a4b2-7793f48f3da3
