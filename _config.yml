@@ -76,4 +76,5 @@ defaults:
 title: Distributed Press
 hostname: distributed-press.sutty.nl
 plugins:
+- jekyll-locales
 - jekyll-distributed-press
