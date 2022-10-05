@@ -53,6 +53,7 @@ permalink:
       para este artículo, especifica uno aquí.
     en: |
       If you don't want to follow the site's link format for this
+draft:
   type: 'boolean'
   label:
     es: 'Borrador'
