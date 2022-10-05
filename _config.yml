@@ -24,7 +24,8 @@ url: https://distributed.press
 baseurl: ""
 
 # language attribute in <html> element.
-lang: en
+locales:  
+  - en
 
 # FROM THIS POINT ON EVERYTHING IS OPTIONAL
 
