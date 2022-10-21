@@ -1,6 +1,7 @@
 
+{% assign menu_items = site.posts | where: 'layout', 'menu' %}
 <nav>
-  {% for item in site.posts | where: 'layout', 'menu' %}
+  {% for item in menu_items %}
     <a href="{{ item.url }}">{{item.title}}</a>
   {% endfor %}
 </nav>
