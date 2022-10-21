@@ -19,9 +19,9 @@ layout: page
         <p class="meta">{{ post.date | date: site.date_format }} • {{ read-time }}
 
         {% unless post.authors == empty %}
-            • by 
+            • {{site.i18n.by}} 
             {% for author in post.authors %}
-                {% if forloop.last %} and {% endif %}
+                {% if forloop.last %} {{site.i18n.and}} {% endif %}
                 {{ author }}{% unless forloop.last %}, {% endunless %}
             {% endfor %}
         {% endunless %}
