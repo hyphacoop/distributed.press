@@ -13,8 +13,7 @@ layout: page
             by 
             {% for author in post.authors %}
                 {% if forloop.last %} and {% endif %}
-                {{ author }}
-                {% unless forloop.last %}, {% endunless %}
+                {{ author }}{% unless forloop.last %}, {% endunless %}
             {% endfor %}
         </h3>
         <p>{{post.description}}</p>
