@@ -2,6 +2,7 @@
 title: Blog
 description: Description
 author: []
+permalink: blog/
 draft: false
 order: 7
 layout: page
@@ -9,7 +10,7 @@ uuid: e36d4202-f3a5-4cac-9caf-8f5230ac0308
 liquid: false
 usuaries:
 - 224
-last_modified_at: 2022-10-21 20:30:21.672776627 +00:00
+last_modified_at: 2022-10-21 20:48:16.090820030 +00:00
 ---
 
 <p>
