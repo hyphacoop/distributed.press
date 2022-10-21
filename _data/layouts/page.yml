@@ -26,7 +26,7 @@ description:
       engines.  If the post is about violence and other sensitive
       topics, we invite you to use it as a content warning, so others
       can decide when they want to read it.
-author:
+authors:
   type: 'array'
   label:
     es: 'Autores'
