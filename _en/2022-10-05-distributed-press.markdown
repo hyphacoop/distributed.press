@@ -10,7 +10,7 @@ uuid: 030d18eb-f0b2-4bb5-8411-7a95f5447c7e
 liquid: false
 usuaries:
 - 224
-last_modified_at: 2022-10-21 19:35:37.210695675 +00:00
+last_modified_at: 2022-10-21 19:45:45.667864595 +00:00
 ---
 
 <p><strong>Check out <a href="https://compost.digital">COMPOST</a>, a magazine about the digital commons, telling stories about people building the web as a shared resource.</strong> COMPOST is published to the web and <a href="https://getdweb.net">DWeb</a> using the <a href="https://github.com/hyphacoop/api.distributed.press">Distributed Press API</a>.</p><p>
