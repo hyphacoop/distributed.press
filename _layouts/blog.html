@@ -1,7 +1,21 @@
+---
+layout: page
+---
 {% assign posts = site.posts | where: "layout", "post" %}
 
 {% for post in posts %}
-    <a href="{{post.url}}">
-        {{post.title}}
-    </a>
+    <div>
+        <a href="{{post.url}}">
+            <h2>{{post.title}}</h2>
+        </a>
+        <h3>
+            by 
+            {% for author in post.authors %}
+                {% if author.last %} and
+                {{ author }}
+                {% unless author.last %}, {% endunless %}
+            {% endfor %}
+        </h3>
+        <p>{{post.description}}</p>
+    </div>
 {% endfor %}
