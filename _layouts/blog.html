@@ -1,0 +1,7 @@
+{% assign posts = site.posts | where: "layout", "post" %}
+
+{% for post in posts %}
+    <a href="{{post.url}}">
+        {{post.title}}
+    </a>
+{% endfor %}
