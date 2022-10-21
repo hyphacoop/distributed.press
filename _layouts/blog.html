@@ -11,7 +11,7 @@ layout: page
         <h3>
             by 
             {% for author in post.authors %}
-                {% if author.last %} and
+                {% if author.last %} and {% endif %}
                 {{ author }}
                 {% unless author.last %}, {% endunless %}
             {% endfor %}
