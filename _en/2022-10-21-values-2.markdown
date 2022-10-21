@@ -1,0 +1,16 @@
+---
+title: Values
+description: Description
+author: []
+permalink: values/
+draft: false
+order: 4
+layout: page
+uuid: 9d7713fc-ca30-4f85-b87b-85f1d2efd0a1
+liquid: false
+usuaries:
+- 224
+last_modified_at: 2022-10-21 19:43:10.928033580 +00:00
+---
+
+<p>completar</p>
