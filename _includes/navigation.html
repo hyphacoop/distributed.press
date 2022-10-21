@@ -1,5 +1,5 @@
 
-{% assign menu_items = site.posts | where: 'layout', 'menu' %}
+{% assign menu_items = site.posts | where: 'layout', 'menu' | sort: "order"%}
 <nav>
   {% for item in menu_items %}
     <a href="{{ item.post.url }}">{{item.title}}</a>
