@@ -16,6 +16,14 @@ post:
   help:
     en: ''
     es: 'Si el ítem lleva a un artículo fijo, asociarlo aquí'
+link:
+  type: 'string'
+  label:
+    en: 'Link'
+    es: 'Vínculo'
+  help:
+    en: "If this item is a regular link, add it here"
+    es: 'Si el ítem lleva a una página o sección especial, asociarla aquí'
 draft:
   type: boolean
   label:
