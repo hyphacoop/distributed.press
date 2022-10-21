@@ -1,4 +1,6 @@
+
 <nav>
-  <a href="{{ site.baseurl }}/approach/">Approach</a>
-  <a href="{{ site.baseurl }}/values/">Values</a>
+  {% for item in site.posts | where: 'layout', 'menu' %}
+    <a href="{{ item.url }}">{{item.title}}</a>
+  {% endfor %}
 </nav>

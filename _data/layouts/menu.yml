@@ -1,0 +1,34 @@
+---
+title:
+  type: string
+  required: true
+  label:
+    es: Título del artículo
+    en: Post title
+  help:
+    es: "¡Un título que invite a leer el artículo!"
+    en: A title that invites people to read the post!
+post:
+  type: 'belongs_to'
+  label:
+    en: 'Link to this post'
+    es: 'Artículo'
+  help:
+    en: ''
+    es: 'Si el ítem lleva a un artículo fijo, asociarlo aquí'
+draft:
+  type: boolean
+  label:
+    es: Borrador
+    en: Draft
+  help:
+    es: Este artículo aun no está listo para publicar
+    en: This post isn't ready to be published yet
+order:
+  type: order
+  label:
+    es: Orden
+    en: Order
+  help:
+    es: La posición del artículo en la lista de artículos
+    en: The post position in the posts list
