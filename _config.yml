@@ -75,6 +75,9 @@ defaults:
     excerpt_separator: "<!--more-->"
 title: Distributed Press
 hostname: distributed-press.sutty.nl
+linked_fields:
+- menu
+- post
 plugins:
 - jekyll-locales
 - jekyll-distributed-press
