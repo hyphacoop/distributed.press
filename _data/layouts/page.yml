@@ -6,25 +6,25 @@ title:
     es: 'Título del artículo'
     en: 'Post title'
   help:
-    es: '¡Un título que invite a leer el artículo!'
-    en: 'A title that invites people to read the post!'
+    es: '¿En qué sección estamos?'
+    en: 'Which page are we on?'
 description:
   type: 'text'
   required: true
   label:
-    es: 'Alerta de contenido o descripción del artículo'
-    en: 'Content warning or post description'
+    es: 'Alerta de contenido o descripción de la página'
+    en: 'Content warning or page description'
   help:
     es: |
-      Resumen del contenido del artículo, que también usarán redes
+      Resumen del contenido de la página, que también usarán redes
       sociales y buscadores.  Si el artículo trata de violencias y otros
       temas sensibles, te invitamos a usar este campo como alerta de
       contenido, para que las personas puedan determinar cuándo quieren
       abrirlo.
     en: |
-      Summary of the post contents, also used by social media and search
-      engines.  If the post is about violence and other sensitive
-      topics, we invite you to use it as a content warning, so others
+      Summary of the page contents, also used by social media and search
+      engines.  If the post is about violence or other sensitive
+      topics, we invite you to use it as a content warning, so that others
       can decide when they want to read it.
 authors:
   type: 'array'
@@ -32,16 +32,16 @@ authors:
     es: 'Autores'
     en: 'Authors'
   help:
-    es: 'Quiénes participaron en la escritura de este artículo'
-    en: 'Who collaborated in write this post'
+    es: '¿Quiénes participaron en la escritura de este artículo?'
+    en: 'Who wrote this post?'
 content:
   type: 'content'
   label:
-    es: 'Contenido del artículo'
-    en: 'Post content'
+    es: 'Contenido de la página'
+    en: 'Page content'
   help:
     es: 'Escribe aquí el artículo'
-    en: 'Write down your post'
+    en: 'Write your post here'
 permalink:
   type: 'string'
   label:
@@ -52,7 +52,8 @@ permalink:
       Si no quieres utilizar el formato de enlaces general del sitio
       para este artículo, especifica uno aquí.
     en: |
-      If you don't want to follow the site's link format for this
+      If you don't want to follow the site's default link format for this page, 
+      specify it here. 
 draft:
   type: 'boolean'
   label:
@@ -67,5 +68,5 @@ order:
     es: 'Orden'
     en: 'Order'
   help:
-    es: 'La posición del artículo en la lista de artículos'
-    en: 'The post position in the posts list'
+    es: 'La posición dentro de la lista de páginas'
+    en: 'Position in list of pages'

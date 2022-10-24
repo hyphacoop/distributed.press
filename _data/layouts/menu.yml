@@ -6,15 +6,15 @@ title:
     es: Título del artículo
     en: Post title
   help:
-    es: "¡Un título que invite a leer el artículo!"
-    en: A title that invites people to read the post!
+    es: "Título del ítem"
+    en: Menu item title
 post:
   type: 'belongs_to'
   label:
     en: 'Link to this post'
     es: 'Artículo'
   help:
-    en: ''
+    en: 'If this item leads to a post, link it here'
     es: 'Si el ítem lleva a un artículo fijo, asociarlo aquí'
 link:
   type: 'string'
@@ -30,13 +30,13 @@ draft:
     es: Borrador
     en: Draft
   help:
-    es: Este artículo aun no está listo para publicar
-    en: This post isn't ready to be published yet
+    es: Este ítem aun no está listo para publicar
+    en: This item isn't ready to be published yet
 order:
   type: order
   label:
     es: Orden
     en: Order
   help:
-    es: La posición del artículo en la lista de artículos
-    en: The post position in the posts list
+    es: La posición del artículo en la lista de ítems 
+    en: Position in list of items
