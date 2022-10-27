@@ -1,0 +1,18 @@
+---
+title: c
+description: desc de c
+authors:
+- pepe
+- carlitos
+- monchi
+draft: false
+order: 11
+layout: post
+uuid: 4d0c2f8f-55d3-4316-b0c6-b5b6fbda6388
+liquid: false
+usuaries:
+- 534
+last_modified_at: 2022-10-27 19:07:43.961985312 +00:00
+---
+
+<p>contenido de c</p>
