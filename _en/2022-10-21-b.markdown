@@ -1,7 +1,7 @@
 ---
 title: b
 description: desc de b
-author:
+authors:
 - carlitos
 - pity
 - carmen
@@ -12,7 +12,7 @@ uuid: f287826b-adb2-4e51-9aa6-5681f77c783a
 liquid: false
 usuaries:
 - 224
-last_modified_at: 2022-10-21 20:39:43.503697780 +00:00
+last_modified_at: 2022-10-27 18:55:11.134700839 +00:00
 ---
 
 <p>este artículo trata sobre b</p>
