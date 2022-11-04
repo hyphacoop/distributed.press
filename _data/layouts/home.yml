@@ -35,7 +35,7 @@ authors:
     es: '¿Quiénes participaron en la escritura de este artículo?'
     en: 'Who wrote this post?'
 content:
-  type: 'content'
+  type: 'new_content'
   label:
     es: 'Contenido del artículo'
     en: 'Post content'
