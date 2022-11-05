@@ -30,5 +30,7 @@ last_modified_at: 2022-10-21 19:45:45.569715129 +00:00
 <strong>Human Rights</strong> — We especially uphold people's right to privacy, free expression, and knowledge. As we strive to build a more equitable and humane world, we acknowledge the ways in which the rights of marginalized communities require more active recognition and protection.</li>
 <li>
 <strong>The Commons</strong> — We strive to build and steward the commons. This means our tools will use, create, and promote shared resources and social practices that are maintained by communities in a sustainable manner.</li>
-</ol><h3>References</h3><p>[1] <a href="https://www.alliedmedia.org/ddjc/principles">Detroit Digital Justice Coalition values</a>
+</ol>
+<hr>
+<h3>References</h3><p>[1] <a href="https://www.alliedmedia.org/ddjc/principles">Detroit Digital Justice Coalition values</a><br/>
 [2] <a href="https://feministinternet.org/en/principles">APC's Feminist Principles of the Internet</a> (<a href="https://www.apc.org/en/pubs/feminist-principles-internet-version-20">easier to read</a>)</p>
