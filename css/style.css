@@ -31,7 +31,7 @@ body {
 html, body {
   height: 100%;
 }
-p, form {
+p, form, figure {
   line-height: 1.4;
   margin: 30px auto;
   word-wrap: break-word;
@@ -418,7 +418,8 @@ nav a.current {
   ul,
   pre,
   p,
-  form {
+  form,
+  figure {
     margin: 40px 0;
   }
   ol, ul {
