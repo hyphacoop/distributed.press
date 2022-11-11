@@ -1,7 +1,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
 <title>
-{% if page.title %}
+{% if page.title and page.layout != 'home' %}
 {{ page.title }} • {{ site.name }}
 {% else %}
 {{ site.name }}
