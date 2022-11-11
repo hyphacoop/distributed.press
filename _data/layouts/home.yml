@@ -4,10 +4,10 @@ title:
   required: true
   label:
     es: 'Título de la página'
-    en: 'Page title'
+    en: 'Home page title'
   help:
     es: '¿En qué sección estamos?'
-    en: 'Which page are we on?'
+    en: "What's the name of the home page?"
 description:
   type: 'text'
   required: true
@@ -22,8 +22,8 @@ description:
       contenido, para que las personas puedan determinar cuándo quieren
       abrirlo.
     en: |
-      Summary of the site contents, also used by social media and search
-      engines.  If the post is about violence or other sensitive
+      Summary of the home page contents, also used by social media and search
+      engines.  If the home page includes violence or other sensitive
       topics, we invite you to use it as a content warning, so that others
       can decide when they want to read it.
 authors:
@@ -33,15 +33,15 @@ authors:
     en: 'Authors'
   help:
     es: '¿Quiénes participaron en la escritura de este artículo?'
-    en: 'Who wrote this post?'
+    en: 'Who wrote this home page?'
 content:
   type: 'new_content'
   label:
     es: 'Contenido del artículo'
-    en: 'Post content'
+    en: 'Home page content'
   help:
     es: 'Escribe aquí el artículo'
-    en: 'Write your post here'
+    en: 'Write your home page here'
 permalink:
   type: 'string'
   label:
@@ -61,7 +61,7 @@ draft:
     en: 'Draft'
   help:
     es: 'Este artículo aun no está listo para publicar'
-    en: "This post isn't ready to be published yet"
+    en: "This home page isn't ready to be published yet"
 order:
   type: 'order'
   label:

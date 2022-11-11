@@ -4,7 +4,7 @@ title:
   required: true
   label:
     es: 'Título del artículo'
-    en: 'Post title'
+    en: 'Page title'
   help:
     es: '¿En qué sección estamos?'
     en: 'Which page are we on?'
@@ -23,7 +23,7 @@ description:
       abrirlo.
     en: |
       Summary of the page contents, also used by social media and search
-      engines.  If the post is about violence or other sensitive
+      engines.  If the page includes violence or other sensitive
       topics, we invite you to use it as a content warning, so that others
       can decide when they want to read it.
 authors:
