@@ -15,7 +15,7 @@ display-social-icons: false
 social-icons-open-newtab: true
 footer-text: This website is built with <a href="https://jekyllrb.com">Jekyll</a>
   and uses the <a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll
-  theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.
+  theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>. Made by <a href="https://sutty.nl/en/">Sutty</a>.
 logo-image: "/img/logos/logo-distributedpress-grey.svg"
 theme-color-attr: "#ff0040"
 ms-tile-color: "#ff0040"
