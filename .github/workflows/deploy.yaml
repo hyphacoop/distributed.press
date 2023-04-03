@@ -1,0 +1,31 @@
+name: "Deploy to Distributed press"
+on:
+  push:
+    branches:
+      - main
+  # Allow manually triggering
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '2.1' # Not needed with a .ruby-version file
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+    - name: Build jekyll site
+      run: bundle exec jekyll build
+
+    - name: Use Node.js 18
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+    - name: Publish to Distributed Press
+      uses: hyphacoop/actions-distributed-press@v1.1.0
+      with:
+        publish_dir: ./
+        dp_url: https://srv2.distributed.press
+        refresh_token: ${{ secrets.REFRESH_TOKEN }}
+        site_url: distributed.press
