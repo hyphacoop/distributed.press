@@ -12,9 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - run: sudo gem install bundler -v '~> 2.1.4'
-    - run: sudo gem install jekyll
-    - run: sudo bundle install
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '2.2' # Not needed with a .ruby-version file
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Build jekyll site
       run: bundle exec jekyll build
 
