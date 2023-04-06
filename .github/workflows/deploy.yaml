@@ -11,6 +11,8 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
+    - name: Install musl-dev
+      run: sudo apt update ; sudo apt install -y musl-dev
     - uses: actions/checkout@v3
     - uses: ruby/setup-ruby@v1
       with:
