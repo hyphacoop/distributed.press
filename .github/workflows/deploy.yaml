@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      - v1-prod
   # Allow manually triggering
   workflow_dispatch:
 
@@ -22,10 +23,13 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: 18
-    - name: Publish to Distributed Press
-      uses: hyphacoop/actions-distributed-press@v1.1.0
-      with:
-        publish_dir: ./
-        dp_url: https://srv2.distributed.press
-        refresh_token: ${{ secrets.REFRESH_TOKEN }}
-        site_url: distributed.press
+    
+    - name: ls
+      run: ls -al
+    #- name: Publish to Distributed Press
+    #  uses: hyphacoop/actions-distributed-press@v1.1.0
+    #  with:
+    #    publish_dir: ./
+    #    dp_url: https://srv2.distributed.press
+    #    refresh_token: ${{ secrets.REFRESH_TOKEN }}
+    #    site_url: distributed.press
