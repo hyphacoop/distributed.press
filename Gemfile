@@ -1,3 +1,10 @@
-source 'https://rubygems.org'
+source 'https://gems.sutty.nl'
 gem 'rouge'
-gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll'
+gem 'distributed-press-api-client', '~>0.1.5'
+gem 'jekyll-locales'
+gem 'concurrent-ruby', '1.1.9'
+gem 'sutty-cli', '~>0.3.0rc4'
+gem 'jekyll-linked-posts'
+gem 'jekyll-order'
+gem 'jekyll-relative-urls'
