@@ -1,4 +1,4 @@
-source 'https://gems.sutty.nl'
+source 'https://rubygems.org/'
 gem 'rouge'
 gem 'jekyll'
 gem 'distributed-press-api-client', '~>0.1.5'
