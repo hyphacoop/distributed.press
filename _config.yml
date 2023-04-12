@@ -6,7 +6,7 @@ author:
   name: Distributed Press
   email: hello@distributed.press
   info:
-url: https://distributed.press/
+url: https://distributed-press.sutty.nl
 baseurl: ''
 locales:
 - en
@@ -75,7 +75,7 @@ defaults:
     layout: post
     excerpt_separator: "<!--more-->"
 title: Distributed Press
-hostname: distributed.press
+hostname: distributed-press.sutty.nl
 linked_fields:
 - menu
 - post
