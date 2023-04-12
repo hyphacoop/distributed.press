@@ -6,7 +6,7 @@ author:
   name: Distributed Press
   email: hello@distributed.press
   info:
-url: https://distributed-press.sutty.nl
+url: https://distributed.press
 baseurl: ''
 locales:
 - en
@@ -75,13 +75,12 @@ defaults:
     layout: post
     excerpt_separator: "<!--more-->"
 title: Distributed Press
-hostname: distributed-press.sutty.nl
+hostname: distributed.press
 linked_fields:
 - menu
 - post
 plugins:
 - jekyll-locales
-- jekyll-distributed-press
 - jekyll-linked-posts
 - jekyll-order
 - jekyll-relative-urls
