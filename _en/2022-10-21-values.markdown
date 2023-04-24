@@ -2,12 +2,12 @@
 title: Values
 post: 9d7713fc-ca30-4f85-b87b-85f1d2efd0a1
 draft: false
-order: 2
+order: 3
 layout: menu
 uuid: a2a49fb4-fb3c-46ed-acba-88d0f2b259e3
 liquid: false
 usuaries:
 - 224
-last_modified_at: 2022-10-21 19:51:00.266411800 +00:00
+last_modified_at: 2023-04-24 22:15:48.650788259 +00:00
 ---
 

@@ -2,12 +2,12 @@
 title: Blog
 link: blog/
 draft: false
-order: 8
+order: 6
 layout: menu
 uuid: c2816f4d-5603-4ed8-9939-1ebc1edf23c1
 liquid: false
 usuaries:
 - 224
-last_modified_at: 2022-10-21 21:14:35.627683614 +00:00
+last_modified_at: 2023-04-24 22:15:48.624679231 +00:00
 ---
 
