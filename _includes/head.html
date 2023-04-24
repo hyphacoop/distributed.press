@@ -1,3 +1,4 @@
+<base href="{% base %}" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
 <title>
@@ -8,11 +9,11 @@
 {% endif %}
 </title>
 <meta name="description" content="{{ page.summary }} {{ site.description.meta }}">
-<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="{{ site.baseurl }}/feed.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="feed.xml">
 
 <!-- icons -->
-<link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon-96x96.png" sizes="96x96">
-<link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
 <meta name="theme-color" content="{{ site.theme-color-attr }}">
 <!-- /icons -->
 
@@ -39,16 +40,16 @@
 {% endif %}">
 <!-- /og tags -->
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/js/modernizr.js"></script>
-<script src="{{ site.baseurl }}/js/fitvids.js"></script>
-<link href='//fonts.googleapis.com/css?family=Source+Code+Pro:400,700|Source+Sans+Pro:600,900|Crimson+Text:700italic,600,600italic,400,700,400italic' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="{{ site.baseurl }}/css/reset.css">
-<link rel="stylesheet" href="{{ site.baseurl }}/css/pygments.css">
+<script src="js/jquery.min.js"></script>
+<script src="js/modernizr.js"></script>
+<script src="js/fitvids.js"></script>
+<link href="css/fonts.css" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="css/reset.css">
+<link rel="stylesheet" href="css/pygments.css">
 {% if site.display-social-icons %}
-<link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.css">
+<link rel="stylesheet" href="css/font-awesome.css">
 {% endif %}
-<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+<link rel="stylesheet" href="css/style.css">
 <!--[if gte IE 9]>
   <style type="text/css">
     .gradient {

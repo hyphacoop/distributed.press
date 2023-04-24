@@ -6,7 +6,7 @@ author:
   name: Distributed Press
   email: hello@distributed.press
   info:
-url: https://distributed-press.sutty.nl/
+url: https://distributed.press
 baseurl: ''
 locales:
 - en
@@ -15,8 +15,9 @@ display-social-icons: false
 social-icons-open-newtab: true
 footer-text: This website is built with <a href="https://jekyllrb.com">Jekyll</a>
   and uses the <a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll
-  theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>. Made by <a href="https://sutty.nl/en/">Sutty</a>.
-logo-image: "/img/logos/logo-distributedpress-grey.svg"
+  theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>. Made by
+  <a href="https://sutty.nl/en/">Sutty</a>.
+logo-image: img/logos/logo-distributedpress-grey.svg
 theme-color-attr: "#ff0040"
 ms-tile-color: "#ff0040"
 theme-color: 255, 0, 64
@@ -64,7 +65,7 @@ exclude:
 highlighter: rouge
 kramdown:
   input: GFM
-paginate_path: "/page-:num/"
+paginate_path: page-:num/
 permalink: pretty
 defaults:
 - scope:
@@ -74,13 +75,13 @@ defaults:
     layout: post
     excerpt_separator: "<!--more-->"
 title: Distributed Press
-hostname: distributed-press.sutty.nl
+hostname: distributed.press
 linked_fields:
 - menu
 - post
 plugins:
 - jekyll-locales
-- jekyll-distributed-press
 - jekyll-linked-posts
 - jekyll-order
 - jekyll-relative-urls
+onion-location: f5aoksf6ejagxboqhmps2u27i33sopshape26o45dgfxaeg7e3levqyd.onion

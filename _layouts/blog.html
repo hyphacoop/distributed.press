@@ -13,7 +13,7 @@ layout: page
 
 {% for post in posts %}
     <div>
-        <a href="/{{post.url}}">
+        <a href="{{post.url}}">
             <h2>{{post.title}}</h2>
         </a>
         <p class="meta">{{ post.date | date: site.date_format }} • {{ read-time }}

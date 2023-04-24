@@ -3,6 +3,6 @@
 
 <nav>
   {% for item in menu_items %}
-    <a href="/{%if item.post%}{{item.post.url}}{%else%}{{item.link}}{%endif%}">{{item.title}}</a>
+    <a href="{%if item.post%}{{item.post.url}}{%else%}{{item.link}}{%endif%}">{{item.title}}</a>
   {% endfor %}
 </nav>
