@@ -4,7 +4,7 @@ description: DP
 authors: []
 permalink: "/"
 draft: false
-order: 0
+order: 1
 layout: home
 uuid: 030d18eb-f0b2-4bb5-8411-7a95f5447c7e
 liquid: false
@@ -13,7 +13,7 @@ usuaries:
 - 224
 - 534
 - 616
-last_modified_at: 2023-04-24 22:14:51.901945353 +00:00
+last_modified_at: 2023-04-24 23:49:54.078216487 +00:00
 ---
 
 <p style="text-align:start"><strong>Check out <a href="https://compost.digital" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">COMPOST</a>, a magazine about the digital commons, telling stories about people building the web as a shared resource.</strong> COMPOST is published to the web and <a href="https://getdweb.net" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">DWeb</a> using the <a href="https://github.com/hyphacoop/api.distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Distributed Press API</a>.</p><figure><img src="public/ey2bg0gcc2l6q955r3fjjkpmivtp/2021-03-06-one-brave-ipns.png" class="max-w-100" controls="false"></figure><p style="text-align:start"><em>COMPOST magazine viewed over IPFS on the Brave Browser with Web Monetization extension.</em></p><p style="text-align:start"><strong>Distributed Press</strong> is an open source publishing tool for the World Wide Web and <a href="https://getdweb.net" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">DWeb</a>. It automates publishing and hosting content to the WWW that it seeds to <a href="https://ipfs.io" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">IPFS</a> and <a href="https://docs.holepunch.to/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Holepunch</a>. We are currently adding new features to deliver verifiable content to other</p><p style="text-align:start">In addition to seeding content, the <a href="https://github.com/hyphacoop/api.distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Distributed Press API</a> also seeds other project data over DWeb protocols. For example, the current Monetization API integrates with Ethereum and Open Collective to provide real-time project funding information. In the future, these APIs will support content verification and social messaging across DWeb ecosystems.</p><p style="text-align:start">Distributed Press is currently alpha software. This is the list of current projects using the tool.</p><table><tbody>

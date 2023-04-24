@@ -4,13 +4,13 @@ description: Description
 authors: []
 permalink: approach/
 draft: false
-order: 3
+order: 4
 layout: page
 uuid: fe4d561e-02b0-4a83-9db7-553c13d730b3
 liquid: false
 usuaries:
 - 224
-last_modified_at: 2022-10-27 18:59:40.611981372 +00:00
+last_modified_at: 2023-04-24 23:49:54.109336575 +00:00
 ---
 
 <p><em>Distributed Press</em> is an initiative to build an open-source publishing tool for the distributed web.</p><p>Our approach involves engaging communities, learning from adjacent media projects, and experimenting with novel technologies and standards. This will help us address a wide range of issues in publishing by establishing a thriving community sustained through good governance and an equitable revenue model.

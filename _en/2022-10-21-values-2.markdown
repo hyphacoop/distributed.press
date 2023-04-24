@@ -1,16 +1,16 @@
 ---
 title: Our Values
 description: Description
-author: []
+authors: []
 permalink: values/
 draft: false
-order: 4
+order: 5
 layout: page
 uuid: 9d7713fc-ca30-4f85-b87b-85f1d2efd0a1
 liquid: false
 usuaries:
 - 224
-last_modified_at: 2022-10-21 19:45:45.569715129 +00:00
+last_modified_at: 2023-04-24 23:49:54.156618245 +00:00
 ---
 
 <h2>Purpose</h2><p>The ethics of those who build technology shapes its use and application. We believe that technologies are merely tools, and that they are a means to certain ends.</p><p>We put forth these values to guide our actions and decisions as we aspire to build technology that advances equity, truth, and justice in the world. These values are to be embodied within our organization, and we expect our contributors and partners to uphold them to every possible extent.</p><h2>Values</h2><ol>
