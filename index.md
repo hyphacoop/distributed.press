@@ -5,7 +5,7 @@ _COMPOST magazine viewed over IPFS on the Brave Browser with Web Monetization ex
 
 ---
 
-**Distributed Press** is an open source publishing tool for the World Wide Web and [DWeb](https://getdweb.net). It automates publishing and hosting content to the WWW that it seeds to [Hypercore](https://hypercore-protocol.org/) and [IPFS](https://ipfs.io). We are currently adding new features to deliver verifiable content to decentralized social networks like [Aether](https://getaether.net/) and [Scuttlebutt](https://scuttlebutt.nz/).
+**Distributed Press** is an open source publishing tool for the World Wide Web and [DWeb](https://getdweb.net). It automates publishing and hosting content to the WWW that it seeds to [Hypercore](https://hypercore-protocol.org/) and [IPFS](https://ipfs.io). 
 
 In addition to seeding content, the [Distributed Press API](https://github.com/hyphacoop/api.distributed.press) also seeds other project data over DWeb protocols. For example, the current Monetization API integrates with Ethereum and Open Collective to provide real-time project funding information. In the future, these APIs will support content verification and social messaging across DWeb ecosystems.
 
