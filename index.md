@@ -30,7 +30,7 @@ Our approach is to engage and learn from broader communities who actively resear
 ---
 
 ## Project team
-Our project team has experience in the distributed web, community networks, cooperative governance, digital policy, and content publishing. 
+We are a project of [Hypha Worker Co-op](https://hypha.coop/) and [Sutty](https://sutty.nl/). Our project team has experience in the distributed web, community networks, cooperative governance, digital policy, and content publishing. 
 
 - **[Akhilesh Thite](https://akhilesh.art/)**
 Software Developer
@@ -38,7 +38,7 @@ Software Developer
 - **[fauno](https://0xacab.org/fauno)**
 Software Developer
 
-- **[mauve](https://software.mauve.moe/)**  
+- **[mauve](https://software.mauve.moe/)**
 Tech Lead
 
 - **[mai ishikawa sutton](https://maisutton.net/)**
