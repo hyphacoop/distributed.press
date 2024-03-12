@@ -2,12 +2,13 @@
 title: Docs
 link: https://docs.distributed.press/
 draft: false
-order: 7
+order: 5
 layout: menu
 uuid: 261b6174-50c2-431c-b0f2-b8f4b84d3e7a
-liquid: false
+render_with_liquid: false
 usuaries:
 - 616
-last_modified_at: 2023-04-24 23:49:30.633582116 +00:00
+created_at: 2023-04-24 00:00:00.000000000 +00:00
+last_modified_at: 2024-03-12 07:59:31.601525720 +00:00
 ---
 
