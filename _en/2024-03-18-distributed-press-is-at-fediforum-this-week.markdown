@@ -1,5 +1,5 @@
 ---
-title: Distributed Press is at Fediforum this week!
+title: Find us at Fediforum this week!
 description: About Distributed Press' participation at Fediforum 2024.
 authors:
 - mai
@@ -11,7 +11,7 @@ render_with_liquid: false
 usuaries:
 - 616
 created_at: 2024-03-18 19:39:30.966596517 +00:00
-last_modified_at: 2024-03-18 19:45:08.424256248 +00:00
+last_modified_at: 2024-03-18 19:45:52.635285340 +00:00
 ---
 
 <p style="text-align:start">We're thrilled to be at <a href="https://fediforum.org/2024-03/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Fediforum</a> this week to present our latest tools! For the past year, we've been working on bringing distributed hosting to the Fediverse, to create better, more customizable social interactions built atop ActivityPub.</p><p style="text-align:start">Come check out our talk on Wednesday March 20 in the morning, around 8:30am PT / 11:30am ET (<a href="" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">the overall schedule is here</a>).</p><p style="text-align:start">Here's a sneak peek of our presentation:</p><ul>
