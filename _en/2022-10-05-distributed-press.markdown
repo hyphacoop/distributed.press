@@ -15,7 +15,7 @@ usuaries:
 - 616
 - 873
 created_at: 2022-10-05 00:00:00.000000000 +00:00
-last_modified_at: 2024-03-26 14:58:10.945875147 +00:00
+last_modified_at: 2024-03-26 14:58:50.012045248 +00:00
 ---
 
 <figure><img src="public/npr5msdhy70pwg5tikr6xjofez91/dp header.png" class="img-fluid" controls="false"></figure>
@@ -113,7 +113,7 @@ last_modified_at: 2024-03-26 14:58:10.945875147 +00:00
 <p style="text-align:start">There are a few ways to try out the Social Inbox:</p>
 <ul>
   <li>
-    <p style="text-align:start"><strong>Sutty</strong>: Create a static website on <a href="https://sutty.nl/en/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Sutty </a>and [set it up](https://sutty.nl/en/how-to-publish-your-sutty-posts-in-fediverse/) to have it published directly to the Fediverse and use the Social Inbox panel</p>
+    <p style="text-align:start"><strong>Sutty</strong>: Create a static website on <a href="https://sutty.nl/en/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Sutty </a>and <a href="https://sutty.nl/en/how-to-publish-your-sutty-posts-in-fediverse" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">set it up</a> to have it published directly to the Fediverse and use the Social Inbox panel</p>
   </li>
   <li>
     <p style="text-align:start"><strong>Do it yourself</strong>: Check out our documentation to see how you can set up the Social Inbox on your existing (or future) static website: <a href="https://docs.distributed.press/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">https://docs.distributed.press/</a></p>
