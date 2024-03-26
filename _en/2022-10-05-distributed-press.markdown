@@ -15,14 +15,11 @@ usuaries:
 - 616
 - 873
 created_at: 2022-10-05 00:00:00.000000000 +00:00
-last_modified_at: 2024-03-26 14:29:11.773790460 +00:00
+last_modified_at: 2024-03-26 14:30:52.344364233 +00:00
 ---
 
-<figure><img src="public/npr5msdhy70pwg5tikr6xjofez91/dp header.png" class="img-fluid" controls="false" alt="a colourful pixel-art abstract image with the text "></figure>
+<figure><img src="public/npr5msdhy70pwg5tikr6xjofez91/dp header.png" class="img-fluid" controls="false"></figure>
 <p style="text-align:start"><strong>Distributed Press</strong> is an open source publishing tool for the World Wide Web and <a href="https://getdweb.net" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">DWeb</a>. It automates publishing and hosting content to the WWW that it seeds to <a href="https://hypercore-protocol.org/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Hypercore</a> and <a href="https://ipfs.io" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">IPFS</a>.</p>
-<p style="text-align:start"><strong>Check out <a href="https://compost.digital" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">COMPOST</a>, a magazine about the digital commons, telling stories about people building the web as a shared resource.</strong> COMPOST is published to the web and <a href="https://getdweb.net" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">DWeb</a> using the <a href="https://github.com/hyphacoop/api.distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Distributed Press API</a>.</p>
-<figure><img src="public/ey2bg0gcc2l6q955r3fjjkpmivtp/2021-03-06-one-brave-ipns.png" class="img-fluid" controls="false"></figure>
-<p style="text-align:start"><em>COMPOST magazine viewed over IPFS on the Brave Browser.</em></p>
 <p style="text-align:start">Distributed Press is currently alpha software. This is the list of current projects using the tool.</p>
 <table>
   <tbody>
@@ -76,6 +73,9 @@ last_modified_at: 2024-03-26 14:29:11.773790460 +00:00
     </tr>
   </tbody>
 </table>
+<p style="text-align:start"><strong>Check out <a href="https://compost.digital" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">COMPOST</a>, a magazine about the digital commons, telling stories about people building the web as a shared resource.</strong> COMPOST is published to the web and <a href="https://getdweb.net" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">DWeb</a> using the <a href="https://github.com/hyphacoop/api.distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Distributed Press API</a>.</p>
+<figure><img src="public/ey2bg0gcc2l6q955r3fjjkpmivtp/2021-03-06-one-brave-ipns.png" class="img-fluid" controls="false"></figure>
+<p style="text-align:start"><em>COMPOST magazine viewed over IPFS on the Brave Browser.</em></p>
 <h2 style="text-align:start" id="our-vision">Our Vision</h2>
 <p style="text-align:start">We are building the <em>Distributed Press</em> — a beginner friendly, open-source publishing tool for the distributed web. Aiming to empower authors, <em>Distributed Press</em> utilizes peer-to-peer and decentralized protocols to amplify free expression worldwide, while exposing sources of misinformation.</p>
 <p style="text-align:start">We all have a sense of the wide-ranging and complex issues facing publishing today: political censorship, disinformation, walled gardens, and the decline of independent media. Yet the solutions to these challenges remain unclear. Working with authors, audiences, and distributed web communities, we hope to co-develop new tools, in order to make publishing fair, democratic, and dignified for all.</p>
