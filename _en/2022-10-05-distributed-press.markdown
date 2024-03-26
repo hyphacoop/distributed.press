@@ -15,10 +15,10 @@ usuaries:
 - 616
 - 873
 created_at: 2022-10-05 00:00:00.000000000 +00:00
-last_modified_at: 2024-03-26 14:58:50.012045248 +00:00
+last_modified_at: 2024-03-26 15:21:04.028986454 +00:00
 ---
 
-<figure><img src="public/npr5msdhy70pwg5tikr6xjofez91/dp header.png" class="img-fluid" controls="false"></figure>
+<figure><img src="public/ksh17nfen0uehmnqll389caurf9d/dp header2.png" class="img-fluid" controls="false"></figure>
 <p style="text-align:start"><strong>Distributed Press</strong> is an open source publishing tool for the World Wide Web and <a href="https://getdweb.net" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">DWeb</a>. It automates publishing and hosting content to the WWW that it seeds to <a href="https://hypercore-protocol.org/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Hypercore</a> and <a href="https://ipfs.io" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">IPFS</a>.</p>
 <p style="text-align:start">Distributed Press is currently alpha software. This is the list of current projects using the tool.</p>
 <table>
