@@ -15,7 +15,7 @@ usuaries:
 - 616
 - 873
 created_at: 2022-10-05 00:00:00.000000000 +00:00
-last_modified_at: 2024-03-26 15:21:04.028986454 +00:00
+last_modified_at: 2024-03-29 00:23:31.590006039 +00:00
 ---
 
 <figure><img src="public/ksh17nfen0uehmnqll389caurf9d/dp header2.png" class="img-fluid" controls="false"></figure>
@@ -136,7 +136,9 @@ last_modified_at: 2024-03-26 15:21:04.028986454 +00:00
     <p style="text-align:start"><strong><a href="https://software.mauve.moe/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">mauve</a></strong> Tech Lead</p>
   </li>
   <li>
-    <p style="text-align:start"><strong><a href="https://maisutton.net/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">mai ishikawa sutton</a></strong> Communications Lead / Co-founder Lead Editor &amp; Community Steward, COMPOST magazine</p>
+    <p style="text-align:start"><strong><a href="https://maisutton.net/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">mai ishikawa sutton</a></strong> <br>
+      Co-founder<br>
+      Lead Editor &amp; Community Steward, COMPOST magazine</p>
   </li>
   <li>
     <p style="text-align:start"><strong>Benedict Lau</strong><br>
