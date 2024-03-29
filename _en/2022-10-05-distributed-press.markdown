@@ -15,7 +15,7 @@ usuaries:
 - 616
 - 873
 created_at: 2022-10-05 00:00:00.000000000 +00:00
-last_modified_at: 2024-03-29 00:23:31.590006039 +00:00
+last_modified_at: 2024-03-29 00:23:57.650496368 +00:00
 ---
 
 <figure><img src="public/ksh17nfen0uehmnqll389caurf9d/dp header2.png" class="img-fluid" controls="false"></figure>
@@ -73,7 +73,7 @@ last_modified_at: 2024-03-29 00:23:31.590006039 +00:00
     </tr>
   </tbody>
 </table>
-<p style="text-align:start"><strong>Check out <a href="https://compost.digital" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">COMPOST</a>, a magazine about the digital commons, telling stories about people building the web as a shared resource.</strong> COMPOST is published to the web and <a href="https://getdweb.net" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">DWeb</a> using the <a href="https://github.com/hyphacoop/api.distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Distributed Press API</a>.</p>
+<p style="text-align:start"><strong>Check out <a href="https://compost.digital" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">COMPOST</a>, a magazine about the digital commons, telling stories about people building the web as a shared resource.</strong> COMPOST is published to the World Wide Web and <a href="https://getdweb.net" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">DWeb</a> using the <a href="https://github.com/hyphacoop/api.distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Distributed Press API</a>.</p>
 <figure><img src="public/ey2bg0gcc2l6q955r3fjjkpmivtp/2021-03-06-one-brave-ipns.png" class="img-fluid" controls="false"></figure>
 <p style="text-align:start"><em>COMPOST magazine viewed over IPFS on the Brave Browser.</em></p>
 <h2 style="text-align:start" id="our-vision">Our Vision</h2>
