@@ -3,7 +3,7 @@ title: Home
 description: DP
 authors: []
 permalink: "/"
-draft: true
+draft: false
 order: 1
 layout: home
 uuid: 030d18eb-f0b2-4bb5-8411-7a95f5447c7e
@@ -15,10 +15,10 @@ usuaries:
 - 616
 - 873
 created_at: 2022-10-05 00:00:00.000000000 +00:00
-last_modified_at: 2024-03-29 00:23:57.650496368 +00:00
+last_modified_at: 2024-04-03 21:44:45.484858691 +00:00
 ---
 
-<figure><img src="public/ksh17nfen0uehmnqll389caurf9d/dp header2.png" class="img-fluid" controls="false"></figure>
+<figure><img src="public/ksh17nfen0uehmnqll389caurf9d/dp header2.png" class="img-fluid" controls="false" alt="abstract colourful image along with the text: "></figure>
 <p style="text-align:start"><strong>Distributed Press</strong> is an open source publishing tool for the World Wide Web and <a href="https://getdweb.net" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">DWeb</a>. It automates publishing and hosting content to the WWW that it seeds to <a href="https://hypercore-protocol.org/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Hypercore</a> and <a href="https://ipfs.io" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">IPFS</a>.</p>
 <p style="text-align:start">Distributed Press is currently alpha software. This is the list of current projects using the tool.</p>
 <table>
@@ -76,12 +76,12 @@ last_modified_at: 2024-03-29 00:23:57.650496368 +00:00
 <p style="text-align:start"><strong>Check out <a href="https://compost.digital" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">COMPOST</a>, a magazine about the digital commons, telling stories about people building the web as a shared resource.</strong> COMPOST is published to the World Wide Web and <a href="https://getdweb.net" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">DWeb</a> using the <a href="https://github.com/hyphacoop/api.distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Distributed Press API</a>.</p>
 <figure><img src="public/ey2bg0gcc2l6q955r3fjjkpmivtp/2021-03-06-one-brave-ipns.png" class="img-fluid" controls="false"></figure>
 <p style="text-align:start"><em>COMPOST magazine viewed over IPFS on the Brave Browser.</em></p>
-<h2 style="text-align:start" id="our-vision">Our Vision</h2>
+<h2 style="text-align:start" id="our-vision"><strong>Our Vision</strong></h2>
 <p style="text-align:start">We are building the <em>Distributed Press</em> — a beginner friendly, open-source publishing tool for the distributed web. Aiming to empower authors, <em>Distributed Press</em> utilizes peer-to-peer and decentralized protocols to amplify free expression worldwide, while exposing sources of misinformation.</p>
-<p style="text-align:start">We all have a sense of the wide-ranging and complex issues facing publishing today: political censorship, disinformation, walled gardens, and the decline of independent media. Yet the solutions to these challenges remain unclear. Working with authors, audiences, and distributed web communities, we hope to co-develop new tools, in order to make publishing fair, democratic, and dignified for all.</p>
+<p style="text-align:start">We all have a sense of the wide-ranging and <strong>complex issues</strong> facing publishing today: <strong>political censorship, disinformation, walled gardens, and the decline of independent media</strong>. Yet the solutions to these challenges remain unclear. Working with authors, audiences, and distributed web communities, <strong>we hope to co-develop new tools, in order to make publishing fair, democratic, and dignified for all</strong>.</p>
 <p style="text-align:start">Our approach is to engage and learn from broader communities who actively research the issues outlined above, and those that practice alternative publishing models. With them, we wish to investigate if and how the decentralized web can better serve the publishing ecosystem.</p>
 <p style="text-align:start"></p>
-<h2 style="text-align:start" id="publish-to-the-dweb!">Publish to the DWeb!</h2>
+<h2 style="text-align:start" id="publish-to-the-dweb!"><strong>Publish to the DWeb!</strong></h2>
 <h4 style="text-align:start" id="github-publishing">GitHub Publishing</h4>
 <p style="text-align:start">You can add Distributed.Press to your existing <a href="https://docs.github.com/en/actions" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">GitHub Actions</a> publishing flow. This works well if you’re already publishing a static website in a continuous integration to HTTP or even if you’ve been publishing to a single protocol like IPFS. In order to “DWeb-ify” your site, you just need a Distributed.Press instance and to take an <a href="https://github.com/marketplace/actions/publish-to-distributed-press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">extra step</a> to upload your static site folder over HTTPS.</p>
 <p style="text-align:start">You can find more detailed documentation on <a href="https://docs.distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">our new docs website</a>.</p>
@@ -109,7 +109,7 @@ last_modified_at: 2024-03-29 00:23:57.650496368 +00:00
   </li>
 </ul>
 <p style="text-align:start">To see which Fediverse clients are compatible with the Social Inbox, you can follow this <a href="https://github.com/hyphacoop/social.distributed.press/issues/24" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Github issue</a>.</p>
-<h4 style="text-align:start" id="getting-started-with-the-social-inbox">Getting Started with the Social Inbox</h4>
+<h4 style="text-align:start" id="getting-started-with-the-social-inbox"><strong>Getting Started with the Social Inbox</strong></h4>
 <p style="text-align:start">There are a few ways to try out the Social Inbox:</p>
 <ul>
   <li>
@@ -123,7 +123,7 @@ last_modified_at: 2024-03-29 00:23:57.650496368 +00:00
   </li>
 </ul>
 <h2 style="text-align:start"></h2>
-<h2 style="text-align:start" id="project-team">Project team</h2>
+<h2 style="text-align:start" id="project-team"><strong>Project team</strong></h2>
 <p style="text-align:start">We are a project of <a href="https://hypha.coop/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Hypha Worker Co-op</a> and <a href="https://sutty.nl/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Sutty</a>. Our project team has experience in the distributed web, community networks, cooperative governance, digital policy, and content publishing.</p>
 <ul>
   <li>
