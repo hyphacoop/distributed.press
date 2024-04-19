@@ -73,3 +73,15 @@ header::after {
 }
 </style>
 {% endif %}
+
+{% if page.activity %}
+    <link href="{{ page.activity.url | absolute_url }}" rel="alternate" type="application/activity+json" />
+{% endif %}
+
+{%- if site.activity_pub_profile -%}
+    <meta property="profile:username" content="{{ site.activity_pub_profile }}" />
+{%- endif -%}
+
+{%- if site.actor -%}
+  <link rel="me" href="{{ site.actor.url | absolute_url }}" />
+{%- endif -%}
