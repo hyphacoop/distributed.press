@@ -22,16 +22,16 @@
 <meta property="og:title" content="{% if page.title %}{{ page.title }} • {{ site.name }}{% else %}{{ site.name }}{% endif %}">
 <meta property="og:locale" content="{{ site.lang }}">
 {% if page.og-image %}
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.og-image }}">
+  <meta property="og:image" content="{{ '/img/' | append: page.og-image | absolute_url }}">
 {% else %}
   {% if page.cover-image %}
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.cover-image }}">
+    <meta property="og:image" content="{{ '/img/' | append: page.cover-image | absolute_url }}">
   {% else %}
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/og-image.jpg">
+    <meta property="og:image" content="{{ '/img/og-image.jpg' | absolute_url }}">
   {% endif %}
 {% endif %}
 <meta property="og:type" content="website">
-<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:description" content="
 {% if page.summary %}
 {{ page.summary }}
