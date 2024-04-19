@@ -14,7 +14,7 @@ render_with_liquid: false
 usuaries:
 - 873
 created_at: 2024-04-19 14:01:49.871282905 +00:00
-last_modified_at: 2024-04-19 14:01:49.897370436 +00:00
+last_modified_at: 2024-04-19 14:42:14.935614180 +00:00
 ---
 
 <h4 style="text-align:start" id="exciting-new-feature-from-distributed-press!-fostering-collective-care-experiences-in-decentralized-social-media-through-moderation-features">🎉 Exciting new feature from Distributed Press! Fostering collective care experiences in decentralized social media through moderation features</h4>
@@ -44,9 +44,9 @@ last_modified_at: 2024-04-19 14:01:49.897370436 +00:00
     <p style="text-align:start">Allowlist/blocklist individual users, so you can blocklist an instance but allow individual users to comment</p>
   </li>
 </ul>
-<figure><img src="public/4xpvecb4tuzaurvubse76uqond8f/moderationnn.png" class="img-fluid" controls="false" alt="Snapshot of the moderation queue in a site, showing the blocklists containing instances known for hosting hate speech, promote fascism, violence, sexual/gendered abuse and/or misinformation."></figure>
+<figure><img src="public/4xpvecb4tuzaurvubse76uqond8f/moderationnn.png" class="img-fluid" controls="false"></figure>
 <p style="text-align:start">A lot of social interactions on the open internet can be unpleasant when folks get exposed to trolls or bad actors. We are interested in <strong>strategies and mechanisms for collective care that support people’s Right to Communication</strong>. In the Fediverse’s vast online communities, it is possible to regulate the circulation of fascism and hate speech as each instance may exclude other instances with previous reports of content which is antidemocratic, hateful or contrary to the values and care of its inhabitants. <strong>Get distributed and interact even more across digital networks, while protecting yourself against harassment, spammers and hostility.</strong></p>
-<p style="text-align:start">Start with Sutty’s no-code platform. </p>
+<p style="text-align:start">Start with Sutty’s no-code platform.</p>
 <p style="text-align:start">Create a static website on Sutty and use the Social Inbox panel on the platform admin panel: <a href="https://sutty.nl/en/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">https://sutty.nl/en/</a></p>
 <figure><img src="public/op3wbnkaj22701w56looo4rl5740/footer-M3.png" class="img-fluid" controls="false"></figure>
 <p style="text-align:start"></p>
