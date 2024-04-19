@@ -84,4 +84,23 @@ plugins:
 - jekyll-linked-posts
 - jekyll-order
 - jekyll-relative-urls
+- jekyll-activity-pub
+- jekyll-activity-pub-absolute-assets
+- jekyll-activity-pub-link-iframes
+- jekyll-activity-pub-assets-as-attachments
+- jekyll-activity-pub-fep-fffd
+- jekyll-activity-pub-fep-fffd-license
+- jekyll-activity-pub-fep-1042
 onion-location: f5aoksf6ejagxboqhmps2u27i33sopshape26o45dgfxaeg7e3levqyd.onion
+activity_pub:
+  url: https://social.distributed.press
+  announce: true
+  icons:
+  - img/logos/avatar.png
+  images:
+  - img/logos/banner-distributedpress-grey.png
+defaults:
+- scope:
+    type: posts
+  values:
+    activity: false

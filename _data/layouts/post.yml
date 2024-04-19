@@ -42,6 +42,39 @@ content:
   help:
     es: 'Escribe aquí el artículo'
     en: 'Write your post here'
+content_warning:
+  type: "string"
+  label:
+    es: "Alerta de contenido"
+    en: "Content warning"
+  help:
+    es: |
+      Si el artículo trata de violencias y otros temas sensibles, te
+      invitamos a usar este campo como alerta de contenido, para que las
+      personas puedan determinar cuándo quieren abrirlo.
+    en: |
+      If the post is about violence and other sensitive topics, we
+      invite you to use it as a content warning, so others can decide
+      when they want to read it.
+activity:
+  type: "boolean"
+  label:
+    es: "Publicar en el Fediverso"
+    en: "Publish to Fediverse"
+  help:
+    es: "Si tu sitio tiene habilitado Social Distributed Press, habilita para publicar en el Fediverso"
+    en: "If your site has Social Distributed Press enabled, tick to publish to the Fediverse"
+  default:
+    es: true
+    en: true
+in_reply_to:
+  type: "url"
+  label:
+    es: "En respuesta a"
+    en: "In reply to"
+  help:
+    es: "Agrega aquí el vínculo a un artículo para generar una respuesta"
+    en: "Add the link to another article to reply to"
 permalink:
   type: 'string'
   label:
