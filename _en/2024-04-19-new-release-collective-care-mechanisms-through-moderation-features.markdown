@@ -1,12 +1,12 @@
 ---
-title: New release! Collective care mechanisms through moderation features.
+title: New release! Collective care mechanisms through moderation features
 description: Exciting new feature from Distributed Press! Moderation features added
   to our sites that interact with decentralized social media. Get distributed and
   interact even more across digital networks, while protecting yourself against harassment,
   spammers and hostility
 authors: []
 activity: true
-draft: true
+draft: false
 order: 12
 layout: post
 uuid: e2bf0059-ae87-4098-ad94-a186b91bf25f
@@ -14,7 +14,7 @@ render_with_liquid: false
 usuaries:
 - 873
 created_at: 2024-04-19 14:01:49.871282905 +00:00
-last_modified_at: 2024-04-19 14:42:14.935614180 +00:00
+last_modified_at: 2024-04-22 19:09:11.245743289 +00:00
 ---
 
 <h4 style="text-align:start" id="exciting-new-feature-from-distributed-press!-fostering-collective-care-experiences-in-decentralized-social-media-through-moderation-features">🎉 Exciting new feature from Distributed Press! Fostering collective care experiences in decentralized social media through moderation features</h4>
