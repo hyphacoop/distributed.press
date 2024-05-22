@@ -15,7 +15,7 @@ usuaries:
 - 616
 - 873
 created_at: 2022-10-05 00:00:00.000000000 +00:00
-last_modified_at: 2024-05-22 18:33:12.857766340 +00:00
+last_modified_at: 2024-05-22 18:45:07.463952082 +00:00
 ---
 
 <figure><img src="public/ksh17nfen0uehmnqll389caurf9d/dp header2.png" class="img-fluid" controls="false"></figure>
@@ -70,16 +70,26 @@ last_modified_at: 2024-05-22 18:33:12.857766340 +00:00
   </li>
 </ul>
 <h2 style="text-align:start" id="get-in-touch:">Get in touch:</h2>
-<figure><img src="public/5u8m5717uijl2cgj8hrqn786wvr1/fediverse logo.png" class="img-fluid" controls="false"></figure>
-<p style="text-align:start">@distributed@distributed.press</p>
-<figure><img src="public/sw8ruduplf9nk16lphrstz9ghv1v/11053970_x_logo_twitter_new_brand_icon (1).png" class="img-fluid" controls="false"></figure>
-<p style="text-align:start"><a href="https://x.com/dwebpress" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">@dwebpress</a></p>
-<figure><img src="public/0xzjprl3iaufj0kzwi287jot9y0u/Bluesky_Logo.png" class="img-fluid" controls="false"></figure>
-<p style="text-align:start"><a href="https://bsky.app/profile/dwebpress.bsky.social" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">@dwebpress.bsky.social</a></p>
-<p style="text-align:start">✉ <code>hello@distributed.press</code></p>
-<h2 style="text-align:start" id="related-links">Related Links</h2>
-<ul>
-  <li>
-    <p style="text-align:start"><a href="https://dweb.sutty.nl/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">DWeb by Sutty</a> - A blog by Sutty about the decentralized web in Spanish</p>
-  </li>
-</ul>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <figure><img src="public/5u8m5717uijl2cgj8hrqn786wvr1/fediverse logo.png" class="img-fluid" controls="false"></figure>
+        <p style="text-align:start">@distributed@distributed.press</p>
+      </td>
+      <td>
+        <figure><img src="public/0xzjprl3iaufj0kzwi287jot9y0u/Bluesky_Logo.png" class="img-fluid" controls="false"></figure>
+        <p style="text-align:start"><a href="https://bsky.app/profile/dwebpress.bsky.social" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">@dwebpress.bsky.social</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <figure><img src="public/sw8ruduplf9nk16lphrstz9ghv1v/11053970_x_logo_twitter_new_brand_icon (1).png" class="img-fluid" controls="false"></figure>
+        <p style="text-align:start"><a href="https://x.com/dwebpress" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">@dwebpress</a></p>
+      </td>
+      <td>
+        <p style="text-align:start">✉: hello@distributed.press</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
