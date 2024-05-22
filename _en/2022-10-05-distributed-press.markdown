@@ -15,7 +15,7 @@ usuaries:
 - 616
 - 873
 created_at: 2022-10-05 00:00:00.000000000 +00:00
-last_modified_at: 2024-05-22 17:51:13.449913150 +00:00
+last_modified_at: 2024-05-22 17:58:22.098054498 +00:00
 ---
 
 <figure><img src="public/ksh17nfen0uehmnqll389caurf9d/dp header2.png" class="img-fluid" controls="false"></figure>
@@ -30,12 +30,12 @@ last_modified_at: 2024-05-22 17:51:13.449913150 +00:00
 <p style="text-align:start">Our approach is to engage and learn from broader communities who actively research the issues outlined above, and those that practice alternative publishing models. With them, we wish to investigate if and how the decentralized web can better serve the publishing ecosystem.</p>
 <p style="text-align:start"></p>
 <h2 style="text-align:start" id="publish-to-the-dweb!"><strong>Publish to the DWeb!</strong></h2>
-<h4 style="text-align:start" id="github-publishing">✸ GitHub Publishing</h4>
+<h4 style="text-align:start" id="github-publishing">✸ GitHub Publishing ✸</h4>
 <p style="text-align:start">You can add Distributed.Press to your existing <a href="https://docs.github.com/en/actions" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">GitHub Actions</a> publishing flow. This works well if you’re already publishing a static website in a continuous integration to HTTP or even if you’ve been publishing to a single protocol like IPFS. In order to “DWeb-ify” your site, you just need a Distributed.Press instance and to take an <a href="https://github.com/marketplace/actions/publish-to-distributed-press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">extra step</a> to upload your static site folder over HTTPS.</p>
 <p style="text-align:start">You can find more detailed documentation on <a href="https://docs.distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">our new docs website</a>.</p>
 <p style="text-align:start">If you’d like to integrate Distributed.Press into other continuous integration environments or are having trouble setting it up yourself, you can reach out to us by <a href="mailto:%20hello@distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">email</a> or open an issue on <a href="https://github.com/hyphacoop/distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Github</a>.</p>
 <p style="text-align:start">You can also check out the <a href="https://api.distributed.press/v1/docs/static/index.html" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">auto-generated swagger interface</a>.</p>
-<h4 style="text-align:start" id="sutty-cms-integration">✸ Sutty CMS Integration</h4>
+<h4 style="text-align:start" id="sutty-cms-integration">✸ Sutty CMS Integration ✸</h4>
 <p style="text-align:start">As part of this effort we have been working with <a href="https://sutty.nl/en/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Sutty</a> on integrating Distributed.Press into their Content Management System (CMS) and using it to have a graphical front-end for editing sites. Sutty generates <a href="https://en.wikipedia.org/wiki/Static_web_page" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">static web sites</a> using <a href="https://jekyllrb.com/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Jekyll themes</a> and a dynamically generated front-end for themes. With the Sutty CMS, you can use a graphical, user-friendly interface to author posts and customize your site, and then enable their Distributed.Press integration to have Sutty publish your site to IPFS and Hypercore in addition to the HTTP version.</p>
 <p style="text-align:start">We have a small walk-through on how to publish a site with Sutty in our <a href="https://docs.distributed.press/deployment/sutty" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">documentation</a>. We encourage groups seeking more customized themes to reach out to them directly.</p>
 <h2 style="text-align:start" id="social-inbox-for-the-decentralized-web">Social Inbox for the Decentralized Web</h2>
@@ -69,69 +69,6 @@ last_modified_at: 2024-05-22 17:51:13.449913150 +00:00
     <p style="text-align:start"><strong>Hire us to help</strong>: If you already have a static website publishing pipeline, but want to publish to IPFS and Hypercore and implement the Social Inbox, get in touch with us at <a href="mailto:hello@distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">hello@distributed.press</a> and we can help you out. :)</p>
   </li>
 </ul>
-<h2 style="text-align:start"></h2>
-<h2 style="text-align:start" id="project-team"><strong>Project team</strong></h2>
-<p style="text-align:start">We are a project of <a href="https://hypha.coop/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Hypha Worker Co-op</a> and <a href="https://sutty.nl/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Sutty</a>. Our project team has experience in the distributed web, community networks, cooperative governance, digital policy, and content publishing.</p>
-<ul>
-  <li>
-    <p style="text-align:start"><strong><a href="https://akhilesh.art/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Akhilesh Thite</a></strong> Software Developer</p>
-  </li>
-  <li>
-    <p style="text-align:start"><strong><a href="https://0xacab.org/fauno" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">fauno</a></strong> Software Developer</p>
-  </li>
-  <li>
-    <p style="text-align:start"><strong><a href="https://software.mauve.moe/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">mauve</a></strong> Tech Lead</p>
-  </li>
-  <li>
-    <p style="text-align:start"><strong><a href="https://maisutton.net/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">mai ishikawa sutton</a></strong> <br>
-      Co-founder<br>
-      Lead Editor &amp; Community Steward, COMPOST magazine</p>
-  </li>
-  <li>
-    <p style="text-align:start"><strong>Benedict Lau</strong><br>
-      Co-founder<br>
-      Founding Member, Hypha Worker Co-operative</p>
-  </li>
-  <li>
-    <p style="text-align:start"><strong>Udit Vira</strong><br>
-      Co-founder Founding Member, Hypha Worker Co-operative</p>
-  </li>
-</ul>
-<p style="text-align:start"></p>
-<h4 style="text-align:start" id="sutty-cms-integration-team">Sutty CMS Integration Team</h4>
-<ul>
-  <li>
-    <p style="text-align:start">Ruby development: fauno, jazzari</p>
-  </li>
-  <li>
-    <p style="text-align:start">UXDI research team: elio, dilit, edu</p>
-  </li>
-  <li>
-    <p style="text-align:start">Communications: ania, elio</p>
-  </li>
-  <li>
-    <p style="text-align:start">Website and template integration: develover, elihu, elio</p>
-  </li>
-  <li>
-    <p style="text-align:start">Testing: maki, dilit</p>
-  </li>
-  <li>
-    <p style="text-align:start">Project management: ania, fauno, elio</p>
-  </li>
-  <li>
-    <p style="text-align:start">Graphic design: develover</p>
-  </li>
-  <li>
-    <p style="text-align:start">Translations: maki, elio</p>
-  </li>
-  <li>
-    <p style="text-align:start">Fediverse inhabitants: maki, nula</p>
-  </li>
-  <li>
-    <p style="text-align:start">Emotional support/facilitation: dilit, elio</p>
-  </li>
-</ul>
-<h2 style="text-align:start"></h2>
 <h2 style="text-align:start" id="let's-chat!">Let’s chat!</h2>
 <p style="text-align:start">If anything here interests you, and you want to explore collaborations, get in touch with us at <code>hello [at] distributed.press</code>.</p>
 <h2 style="text-align:start"></h2>
