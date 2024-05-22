@@ -1,0 +1,65 @@
+---
+title: Announcing Distributed.Press Social Inbox 1.0
+description: With Social Inbox, get social interactions to websites on the decentralized
+  web, and find new readers all over the Fediverse
+authors: []
+activity: true
+draft: false
+order: 9
+layout: post
+uuid: 0ace9ee9-d578-4bb2-bb85-ce13c5cf3a21
+render_with_liquid: false
+usuaries:
+- 873
+created_at: 2023-12-05 00:00:00.000000000 +00:00
+last_modified_at: 2024-05-22 19:40:59.562233054 +00:00
+---
+
+<h3 style="text-align:start" id="our-new-feature-brings-social-interactions-to-websites-on-the-decentralized-web.">Our new feature brings social interactions to websites on the decentralized web.</h3>
+<p style="text-align:start">Hypha and <a href="https://sutty.nl/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Sutty</a> are thrilled to announce the release of the Social Inbox, a new feature of <a href="https://distributed.press/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Distributed.Press</a> that integrates websites with interactions on federated social media platforms like Mastodon. </p>
+<p style="text-align:start">With the Social Inbox enabled, websites obtain their own account on the Fediverse, allowing it to automatically send out new posts to followers at the time of publication. When other users reply to posts, you can approve them to be published to the site as comments. </p>
+<h5 style="text-align:start" id="the-social-inbox-allows-readers-to-directly-engage-with-your-posts-where-they-already-are-and-gives-publishers-the-ability-to-incorporate-public-dialogue-into-their-websites.">The Social Inbox allows readers to directly engage with your posts where they already are, and gives publishers the ability to incorporate public dialogue into their websites.</h5>
+<p style="text-align:start">✸✸✸</p>
+<h2 style="text-align:start" id="getting-started">Getting Started</h2>
+<p style="text-align:start">There are a few ways to try out the Social Inbox:</p>
+<ul>
+  <li>
+    <p style="text-align:start"><strong>Sutty</strong>: Create a static website on Sutty and use the Social Inbox panel on their platform admin panel: <a href="https://sutty.nl/en/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">https://sutty.nl/en/</a></p>
+  </li>
+  <li>
+    <p style="text-align:start"><strong>Do it yourself</strong>: Check out our documentation to see how you can set up the Social Inbox on your existing (or future) static website: <a href="https://docs.distributed.press/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">https://docs.distributed.press/</a></p>
+  </li>
+  <li>
+    <p style="text-align:start"><strong>Hire us to help</strong>: If you already have a static website publishing pipeline, but want to publish to IPFS and Hypercore and implement the Social Inbox, get in touch with us at <a href="mailto:hello@distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">hello@distributed.press</a> and we can help you out. :)</p>
+  </li>
+</ul>
+<p style="text-align:start">✸✸✸</p>
+<h2 style="text-align:start" id="failures-of-existing-social-media">Failures of Existing Social Media</h2>
+<p style="text-align:start">Big social media services, like X/Twitter and Instagram, centralize all control over the data, content, and interactions on their platforms. They moderate messages on their platforms with little transparency or accountability, leading to posts and entire accounts being censored with no explanation. Additionally, corporate social media platforms have an insatiable hunger for data. They surveil every aspect of our interactions — from what we post, what we “like”, who we follow, to minute details of where our attention lingers. This data is used to feed their algorithms in order to maximize the influence, and therefore profitability, of the ads they show to their users.</p>
+<p style="text-align:start">Their intrusive practices extend into the timeline itself, by manipulating what posts appear and inserting “suggested” content that we never ask to see. Major social media platforms regularly comply with government requests to hand over personal data without a court warrant. And we have witnessed how an entire social media network can be sold to a billionaire with no regard for the impact this would have on global public discourse.</p>
+<h2 style="text-align:start" id="activitypub:-a-decentralized-alternative">ActivityPub: A Decentralized Alternative</h2>
+<p style="text-align:start">In the face of the failures of existing social media platforms, there have been many attempts to build viable alternatives. Out of these, one of the most thriving networks is what is collectively called the Fediverse — an ecosystem of social media platforms that rely on the <a href="https://www.w3.org/TR/activitypub/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">ActivityPub social data standard</a>.</p>
+<p style="text-align:start">Instead of having a platform contain the accounts, messages, and interactions concentrated on one website, ActivityPub allows users with accounts on <em>different</em> websites to communicate with each other. This is similar to how email works; you can send an email to someone else regardless of what email service they use. By enabling anyone to set up their own “instance” or social media server, ActivityPub allows people to decide who has control over their data. They can decide to host their own instance, or choose one from among the thousands of others who offer hosting services. The ActivityPub standard allows data to be hosted across thousands of different instances, while still being able to follow and send messages between them.</p>
+<p style="text-align:start">One of the perennial problems with social media is content moderation. ActivityPub is distinct in that it allows each instance to decide for themselves how to moderate messages on their servers. This helps ensure that a given user or community can shape their own moderation policies, instead of an unaccountable, centralized authority. Fediverse instances can even decide to subscribe to community-curated blocklists, which can be actively shaped and used across many servers, by people who understand their community needs and agree on what kind of dialogue they would like to have or not have appear in their timelines.</p>
+<p style="text-align:start">As a result, the Fediverse continues to grow in its potential as a diversified network of interoperable social media applications.</p>
+<h2 style="text-align:start" id="social-inbox-for-the-decentralized-web">Social Inbox for the Decentralized Web</h2>
+<p style="text-align:start">From its inception, Distributed.Press has incorporated existing decentralized web protocols to expand the possibilities of web publishing. It is important for us to incorporate ActivityPub into Distributed.Press given its flexibility and popular use as a social media protocol.</p>
+<p style="text-align:start">Through our existing suite of tools, it’s already possible to publish static <a href="https://jekyllrb.com/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Jekyll</a> websites to the DWeb. With static websites, code and content are delivered to the browser as simple HTML/CSS files, without having to access an external server to load content. The benefit of static websites is that they load faster, do not use plug-ins that require constant updates, and tend to be more secure overall. We realized that we could lean on these features, while incorporating social interactions into websites using ActivityPub.</p>
+<p style="text-align:start">So over the course of this year, we built the <strong>Social Inbox</strong>, which allows people to integrate their website with the Fediverse and to engage with readers there. <a href="https://blog.mauve.moe/posts/distributed-press-social-inbox#how-the-inbox-works" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">You can read more about the technical details of how the Social Inbox works</a>.</p>
+<p style="text-align:start"><mark style="color:inherit;background-color:#b3fffe">With the Social Inbox enabled on your site, you can:</mark></p>
+<ul>
+  <li>
+    <p style="text-align:start"><strong>Post to the Fediverse</strong>: New articles can be posted to the Fediverse where followers can read, re-post, favorite, and send replies.</p>
+  </li>
+  <li>
+    <p style="text-align:start"><strong>Streamline moderation</strong>: Approve messages and follow requests one-by-one, automate the process on your own, or subscribe to existing block lists. (For now, Distributed.Press subscribes to <a href="https://github.com/gardenfence/blocklist/tree/main" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">GardenFence</a> to automatically block servers that have shown to be sources of hateful rhetoric, harassment, and spam.)</p>
+  </li>
+  <li>
+    <p style="text-align:start"><strong>Download your follower list</strong>: If you would rather move your account to a different server, you can switch your Social Inbox instance very easily without needing to change the domain name for your site.</p>
+  </li>
+</ul>
+<p style="text-align:start">To see which Fediverse clients are compatible with the Social Inbox, you can follow this <a href="https://github.com/hyphacoop/social.distributed.press/issues/24" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Github issue</a>.</p>
+<p style="text-align:start">For Mastodon and Pixelfed users: Please note that when someone follows your website’s Fediverse account for the first time, they will receive new posts as they’re published. That also means that they will not see any previous posts due to Mastodon not preemptively fetching the full lists of posts from our outbox. If this something you’d like to be addressed, you can comment on the <a href="https://github.com/mastodon/mastodon/issues/34" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Mastodon issue tracker</a>, or work with us by chiming into <a href="https://github.com/hyphacoop/social.distributed.press/issues/24" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">our issue tracker</a> to see what you can do to help.</p>
+<h2 style="text-align:start" id="sutty-integration">Sutty Integration</h2>
+<p style="text-align:start">If you aren’t able or interested in coding your way to creating a static website or implementing the Social Inbox yourself, we have also integrated it into <a href="https://sutty.nl/en" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Sutty</a>, a content management system for static Jekyll websites. All you need to do is set up a website on their platform and enable the Social Inbox in the configuration panel. Then, you will see a panel that will allow you to approve/deny replies as comments to your posts.</p>
+<p style="text-align:start"><strong>For a step-by-step guide on how to use the Social Inbox with Sutty, check out this <a href="https://sutty.nl/en/how-to-publish-your-sutty-posts-in-fediverse/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">written demo</a> or <a href="https://youtu.be/ntTdIuC0bbM" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">demo video</a>.</strong></p>
