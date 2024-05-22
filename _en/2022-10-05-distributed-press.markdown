@@ -15,7 +15,7 @@ usuaries:
 - 616
 - 873
 created_at: 2022-10-05 00:00:00.000000000 +00:00
-last_modified_at: 2024-05-22 18:45:07.463952082 +00:00
+last_modified_at: 2024-05-22 19:27:39.556949823 +00:00
 ---
 
 <figure><img src="public/ksh17nfen0uehmnqll389caurf9d/dp header2.png" class="img-fluid" controls="false"></figure>
@@ -37,7 +37,7 @@ last_modified_at: 2024-05-22 18:45:07.463952082 +00:00
 <p style="text-align:start">You can also check out the <a href="https://api.distributed.press/v1/docs/static/index.html" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">auto-generated swagger interface</a>.</p>
 <h4 style="text-align:start" id="sutty-cms-integration">✸ Sutty CMS Integration ✸</h4>
 <p style="text-align:start">As part of this effort we have been working with <a href="https://sutty.nl/en/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Sutty</a> on integrating Distributed.Press into their Content Management System (CMS) and using it to have a graphical front-end for editing sites. Sutty generates <a href="https://en.wikipedia.org/wiki/Static_web_page" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">static web sites</a> using <a href="https://jekyllrb.com/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Jekyll themes</a> and a dynamically generated front-end for themes. With the Sutty CMS, you can use a graphical, user-friendly interface to author posts and customize your site, and then enable their Distributed.Press integration to have Sutty publish your site to IPFS and Hypercore in addition to the HTTP version.</p>
-<p style="text-align:start">We have a small walk-through on how to publish a site with Sutty in our <a href="https://docs.distributed.press/deployment/sutty" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">documentation</a>. We encourage groups seeking more customized themes to reach out to them directly.</p>
+<p style="text-align:start">We have a small walk-through on how to publish a site with Sutty in our <a href="https://docs.distributed.press/deployment/sutty" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">documentation</a>. We encourage groups seeking customized themes to <a href="mailto:contacto@sutty.nl" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">reach out</a> and get support on customization</p>
 <h2 style="text-align:start" id="social-inbox-for-the-decentralized-web">Social Inbox for the Decentralized Web</h2>
 <p style="text-align:start">From its inception, Distributed.Press has incorporated existing decentralized web protocols to expand the possibilities of web publishing. It is important for us to incorporate ActivityPub into Distributed.Press given its flexibility and popular use as a social media protocol.</p>
 <p style="text-align:start">With the Social Inbox enabled on your site, you can:</p>
@@ -88,7 +88,7 @@ last_modified_at: 2024-05-22 18:45:07.463952082 +00:00
         <p style="text-align:start"><a href="https://x.com/dwebpress" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">@dwebpress</a></p>
       </td>
       <td>
-        <p style="text-align:start">✉: hello@distributed.press</p>
+        <p style="text-align:start">✉: <a href="mailto:hello@distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">hello@distributed.press</a></p>
       </td>
     </tr>
   </tbody>
