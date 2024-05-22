@@ -12,7 +12,7 @@ render_with_liquid: false
 usuaries:
 - 873
 created_at: 2023-12-05 00:00:00.000000000 +00:00
-last_modified_at: 2024-05-22 19:40:59.562233054 +00:00
+last_modified_at: 2024-05-22 20:10:59.562233054 +00:00
 ---
 
 <h3 style="text-align:start" id="our-new-feature-brings-social-interactions-to-websites-on-the-decentralized-web.">Our new feature brings social interactions to websites on the decentralized web.</h3>
@@ -23,15 +23,15 @@ last_modified_at: 2024-05-22 19:40:59.562233054 +00:00
 <h2 style="text-align:start" id="getting-started">Getting Started</h2>
 <p style="text-align:start">There are a few ways to try out the Social Inbox:</p>
 <ul>
-  <li>
-    <p style="text-align:start"><strong>Sutty</strong>: Create a static website on Sutty and use the Social Inbox panel on their platform admin panel: <a href="https://sutty.nl/en/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">https://sutty.nl/en/</a></p>
-  </li>
-  <li>
-    <p style="text-align:start"><strong>Do it yourself</strong>: Check out our documentation to see how you can set up the Social Inbox on your existing (or future) static website: <a href="https://docs.distributed.press/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">https://docs.distributed.press/</a></p>
-  </li>
-  <li>
-    <p style="text-align:start"><strong>Hire us to help</strong>: If you already have a static website publishing pipeline, but want to publish to IPFS and Hypercore and implement the Social Inbox, get in touch with us at <a href="mailto:hello@distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">hello@distributed.press</a> and we can help you out. :)</p>
-  </li>
+<li>
+<p style="text-align:start"><strong>Sutty</strong>: Create a static website on Sutty and use the Social Inbox panel on their platform admin panel: <a href="https://sutty.nl/en/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">https://sutty.nl/en/</a></p>
+</li>
+<li>
+<p style="text-align:start"><strong>Do it yourself</strong>: Check out our documentation to see how you can set up the Social Inbox on your existing (or future) static website: <a href="https://docs.distributed.press/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">https://docs.distributed.press/</a></p>
+</li>
+<li>
+<p style="text-align:start"><strong>Hire us to help</strong>: If you already have a static website publishing pipeline, but want to publish to IPFS and Hypercore and implement the Social Inbox, get in touch with us at <a href="mailto:hello@distributed.press" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">hello@distributed.press</a> and we can help you out. :)</p>
+</li>
 </ul>
 <p style="text-align:start">✸✸✸</p>
 <h2 style="text-align:start" id="failures-of-existing-social-media">Failures of Existing Social Media</h2>
@@ -47,17 +47,7 @@ last_modified_at: 2024-05-22 19:40:59.562233054 +00:00
 <p style="text-align:start">Through our existing suite of tools, it’s already possible to publish static <a href="https://jekyllrb.com/" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Jekyll</a> websites to the DWeb. With static websites, code and content are delivered to the browser as simple HTML/CSS files, without having to access an external server to load content. The benefit of static websites is that they load faster, do not use plug-ins that require constant updates, and tend to be more secure overall. We realized that we could lean on these features, while incorporating social interactions into websites using ActivityPub.</p>
 <p style="text-align:start">So over the course of this year, we built the <strong>Social Inbox</strong>, which allows people to integrate their website with the Fediverse and to engage with readers there. <a href="https://blog.mauve.moe/posts/distributed-press-social-inbox#how-the-inbox-works" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">You can read more about the technical details of how the Social Inbox works</a>.</p>
 <p style="text-align:start"><mark style="color:inherit;background-color:#b3fffe">With the Social Inbox enabled on your site, you can:</mark></p>
-<ul>
-  <li>
-    <p style="text-align:start"><strong>Post to the Fediverse</strong>: New articles can be posted to the Fediverse where followers can read, re-post, favorite, and send replies.</p>
-  </li>
-  <li>
-    <p style="text-align:start"><strong>Streamline moderation</strong>: Approve messages and follow requests one-by-one, automate the process on your own, or subscribe to existing block lists. (For now, Distributed.Press subscribes to <a href="https://github.com/gardenfence/blocklist/tree/main" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">GardenFence</a> to automatically block servers that have shown to be sources of hateful rhetoric, harassment, and spam.)</p>
-  </li>
-  <li>
-    <p style="text-align:start"><strong>Download your follower list</strong>: If you would rather move your account to a different server, you can switch your Social Inbox instance very easily without needing to change the domain name for your site.</p>
-  </li>
-</ul>
+<ul><li><p style="text-align:start"><strong>Post to the Fediverse</strong>: New articles can be posted to the Fediverse where followers can read, re-post, favorite, and send replies.</p></li><li><p style="text-align:start"><strong>Streamline moderation</strong>: Approve messages and follow requests one-by-one, automate the process on your own, or subscribe to existing block lists. (For now, Distributed.Press subscribes to <a href="https://github.com/gardenfence/blocklist/tree/main" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">GardenFence</a> to automatically block servers that have shown to be sources of hateful rhetoric, harassment, and spam.)</p></li><li><p style="text-align:start"><strong>Download your follower list</strong>: If you would rather move your account to a different server, you can switch your Social Inbox instance very easily without needing to change the domain name for your site.</p></li></ul>
 <p style="text-align:start">To see which Fediverse clients are compatible with the Social Inbox, you can follow this <a href="https://github.com/hyphacoop/social.distributed.press/issues/24" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Github issue</a>.</p>
 <p style="text-align:start">For Mastodon and Pixelfed users: Please note that when someone follows your website’s Fediverse account for the first time, they will receive new posts as they’re published. That also means that they will not see any previous posts due to Mastodon not preemptively fetching the full lists of posts from our outbox. If this something you’d like to be addressed, you can comment on the <a href="https://github.com/mastodon/mastodon/issues/34" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Mastodon issue tracker</a>, or work with us by chiming into <a href="https://github.com/hyphacoop/social.distributed.press/issues/24" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">our issue tracker</a> to see what you can do to help.</p>
 <h2 style="text-align:start" id="sutty-integration">Sutty Integration</h2>
