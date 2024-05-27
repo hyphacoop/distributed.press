@@ -15,7 +15,7 @@ usuaries:
 - 616
 - 873
 created_at: 2022-10-05 00:00:00.000000000 +00:00
-last_modified_at: 2024-05-22 19:27:39.556949823 +00:00
+last_modified_at: 2024-05-27 18:15:16.304783084 +00:00
 ---
 
 <figure><img src="public/ksh17nfen0uehmnqll389caurf9d/dp header2.png" class="img-fluid" controls="false"></figure>
@@ -46,13 +46,13 @@ last_modified_at: 2024-05-22 19:27:39.556949823 +00:00
     <p style="text-align:start"><strong>Post to the Fediverse</strong>: New articles can be posted to the Fediverse where followers can read, re-post, favorite, and send replies.</p>
   </li>
   <li>
-    <p style="text-align:start"><strong>Approve replies as comments</strong>: When posts receive replies on the Fediverse, the website owner can approve them as reader comments that are then posted alongside the original article on the website.</p>
-  </li>
-  <li>
     <p style="text-align:start"><strong>Streamline moderation</strong>: Approve messages and follow requests one-by-one, automate the process on your own, or subscribe to existing block lists. (For now, Distributed.Press subscribes to <a href="https://github.com/gardenfence/blocklist/tree/main" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">GardenFence</a> to automatically block servers that have shown to be sources of hateful rhetoric, harassment, and spam.)</p>
   </li>
   <li>
     <p style="text-align:start"><strong>Download your follower list</strong>: If you would rather move your account to a different server, you can switch your Social Inbox instance very easily without needing to change the domain name for your site.</p>
+  </li>
+  <li>
+    <p style="text-align:start"><em><strong>COMING SOON </strong></em>→<em><strong> </strong></em><strong>Approve replies as comments</strong>: When posts receive replies on the Fediverse, the website owner can approve them as reader comments that are then posted alongside the original article on the website.</p>
   </li>
 </ul>
 <p style="text-align:start">To see which Fediverse clients are compatible with the Social Inbox, you can follow this <a href="https://github.com/hyphacoop/social.distributed.press/issues/24" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Github issue</a>.</p>
