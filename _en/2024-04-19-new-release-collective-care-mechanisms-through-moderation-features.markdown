@@ -14,7 +14,7 @@ render_with_liquid: false
 usuaries:
 - 873
 created_at: 2024-04-19 14:01:49.871282905 +00:00
-last_modified_at: 2024-04-22 19:09:11.245743289 +00:00
+last_modified_at: 2024-05-29 00:00:00.000000000 +00:00
 ---
 
 <h4 style="text-align:start" id="exciting-new-feature-from-distributed-press!-fostering-collective-care-experiences-in-decentralized-social-media-through-moderation-features">🎉 Exciting new feature from Distributed Press! Fostering collective care experiences in decentralized social media through moderation features</h4>

@@ -15,7 +15,7 @@ render_with_liquid: false
 usuaries:
 - 873
 created_at: 2024-05-03 00:00:00.000000000 +00:00
-last_modified_at: 2024-05-10 21:38:06.333221950 +00:00
+last_modified_at: 2024-05-29 00:00:00.000000000 +00:00
 ---
 
 <p style="text-align:start">Today we are releasing <strong>an exciting enhancement</strong> for Distributed Press: the <strong><mark style="color:inherit;background-color:#a8fff9">Social Reader</mark></strong> - a new way to read posts on the Fediverse.</p>
