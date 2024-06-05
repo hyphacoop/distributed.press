@@ -31,7 +31,7 @@ body {
 html, body {
   height: 100%;
 }
-p, form {
+p, form, figure {
   line-height: 1.4;
   margin: 30px auto;
   word-wrap: break-word;
@@ -78,6 +78,9 @@ ol {
 li {
   margin: 20px 0;
   line-height: 1.4;
+}
+li p {
+  margin:0;
 }
 li * {
   line-height: 1em; /* Bold font line-height fix */
@@ -131,11 +134,16 @@ table {
   border-collapse: collapse;
   margin: 30px auto;
 }
+table p {
+  margin:0;
+}
 td, th {
   padding: .8rem
 }
 th {
   background-color: rgba({{ site.text-color }}, 0.05);;
+  border-bottom: 2px solid red;
+  text-align:left;
 }
 tr {
   border-bottom: 1px solid  rgba({{ site.text-color }}, 0.05);
@@ -410,7 +418,8 @@ nav a.current {
   ul,
   pre,
   p,
-  form {
+  form,
+  figure {
     margin: 40px 0;
   }
   ol, ul {

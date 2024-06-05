@@ -1,0 +1,4 @@
+---
+actor_url: https://distributed.press/about.jsonld
+actor: "@distributed@distributed.press"
+public_key_url: https://distributed.press/about.jsonld#main-key

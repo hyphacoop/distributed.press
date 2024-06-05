@@ -1,0 +1,42 @@
+---
+title:
+  type: string
+  required: true
+  label:
+    es: Título del artículo
+    en: Menu item title
+  help:
+    es: "Título del ítem"
+    en: Menu item title
+post:
+  type: 'belongs_to'
+  label:
+    en: 'Content linked'
+    es: 'Artículo'
+  help:
+    en: 'If this item leads to a post, link it here'
+    es: 'Si el ítem lleva a un artículo fijo, asociarlo aquí'
+link:
+  type: 'string'
+  label:
+    en: 'Link'
+    es: 'Vínculo'
+  help:
+    en: "If this item is a regular link, add it here"
+    es: 'Si el ítem lleva a una página o sección especial, asociarla aquí'
+draft:
+  type: boolean
+  label:
+    es: Borrador
+    en: Draft
+  help:
+    es: Este ítem aun no está listo para publicar
+    en: This item isn't ready to be published yet
+order:
+  type: order
+  label:
+    es: Orden
+    en: Order
+  help:
+    es: La posición del artículo en la lista de ítems 
+    en: Position in list of items

@@ -1,0 +1,14 @@
+---
+title: Blog
+link: blog/
+draft: false
+order: 4
+layout: menu
+uuid: c2816f4d-5603-4ed8-9939-1ebc1edf23c1
+render_with_liquid: false
+usuaries:
+- 224
+created_at: 2022-10-21 00:00:00.000000000 +00:00
+last_modified_at: 2024-03-12 07:59:31.585156650 +00:00
+---
+

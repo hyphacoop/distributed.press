@@ -1,0 +1,36 @@
+---
+title: Our Values
+description: Description
+authors: []
+permalink: values/
+draft: false
+order: 5
+layout: page
+uuid: 9d7713fc-ca30-4f85-b87b-85f1d2efd0a1
+liquid: false
+usuaries:
+- 224
+last_modified_at: 2023-04-24 23:49:54.156618245 +00:00
+---
+
+<h2>Purpose</h2><p>The ethics of those who build technology shapes its use and application. We believe that technologies are merely tools, and that they are a means to certain ends.</p><p>We put forth these values to guide our actions and decisions as we aspire to build technology that advances equity, truth, and justice in the world. These values are to be embodied within our organization, and we expect our contributors and partners to uphold them to every possible extent.</p><h2>Values</h2><ol>
+<li>
+<strong>Solidarity</strong> — We stand with others who share these principles and strive to work alongside them to fulfill our collective aims. We reject saviorism and individual ambitions for wealth or recognition. Instead, we embrace interdependence and mutual support to work towards common goals with others.</li>
+<li>
+<strong>Equity</strong> — We recognize that everyone's economic and social status varies, and that <em>equal</em> treatment is not the same as <em>equitable</em> treatment. We will not deny any person's contribution based on religion, race, gender or gender identity, ethnicity, sexual orientation, disability, age, economic status, political beliefs, educational background, language, or literacy. We will do what we can to actively invite those who are marginalized or experiencing any type of systemic disadvantage, and ensure a safe participatory space where harassment in any form is condemned.</li>
+<li>
+<strong>Sustainability</strong> — We strive to make our technology useful and sustainable in the long-term. Technology must consider its impacts on the environment and help us bring about a new balance with the natural world. This is intrinsically tied to how we sustain ourselves as an organization and as a network of users and maintainers. Income is sought only as a means to sustain and grow the project. We recognize that our desire for sustainability should not prevent us from critically examining the status quo while acknowledging beliefs and practices that have endured over time.</li>
+<li>
+<strong>Transparency</strong> — We believe in the value of transparency as an enabler of mutual trust and respect. We strive to make our practices, motivations, and governance transparent to the extent possible without compromising on specific needs for privacy.</li>
+<li>
+<strong>Inclusion</strong> — We believe in inclusive and participatory governance of organizations. We strive to include the input and expertise of those who participate in this project. However, we will not sacrifice the health of our organization for the sake of including individuals who do not share our values.</li>
+<li>
+<strong>Accountability</strong> — We believe in demonstrating grace and self-awareness while working through disagreement, failure, and compromise. Mistakes and misunderstandings are inevitable, and we do our best to acknowledge our shortcomings.</li>
+<li>
+<strong>Human Rights</strong> — We especially uphold people's right to privacy, free expression, and knowledge. As we strive to build a more equitable and humane world, we acknowledge the ways in which the rights of marginalized communities require more active recognition and protection.</li>
+<li>
+<strong>The Commons</strong> — We strive to build and steward the commons. This means our tools will use, create, and promote shared resources and social practices that are maintained by communities in a sustainable manner.</li>
+</ol>
+<hr>
+<h3>References</h3><p>[1] <a href="https://www.alliedmedia.org/ddjc/principles">Detroit Digital Justice Coalition values</a><br/>
+[2] <a href="https://feministinternet.org/en/principles">APC's Feminist Principles of the Internet</a> (<a href="https://www.apc.org/en/pubs/feminist-principles-internet-version-20">easier to read</a>)</p>

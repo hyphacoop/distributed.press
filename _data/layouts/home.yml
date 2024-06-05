@@ -1,0 +1,72 @@
+---
+title:
+  type: 'string'
+  required: true
+  label:
+    es: 'Título de la página'
+    en: 'Home page title'
+  help:
+    es: '¿En qué sección estamos?'
+    en: "What's the name of the home page?"
+description:
+  type: 'text'
+  required: true
+  label:
+    es: 'Alerta de contenido o descripción del sitio'
+    en: 'Content warning or site description'
+  help:
+    es: |
+      Resumen del contenido del artículo, que también usarán redes
+      sociales y buscadores.  Si el artículo trata de violencias y otros
+      temas sensibles, te invitamos a usar este campo como alerta de
+      contenido, para que las personas puedan determinar cuándo quieren
+      abrirlo.
+    en: |
+      Summary of the home page contents, also used by social media and search
+      engines.  If the home page includes violence or other sensitive
+      topics, we invite you to use it as a content warning, so that others
+      can decide when they want to read it.
+authors:
+  type: 'array'
+  label:
+    es: 'Autores'
+    en: 'Authors'
+  help:
+    es: '¿Quiénes participaron en la escritura de este artículo?'
+    en: 'Who wrote this home page?'
+content:
+  type: 'new_content'
+  label:
+    es: 'Contenido del artículo'
+    en: 'Home page content'
+  help:
+    es: 'Escribe aquí el artículo'
+    en: 'Write your home page here'
+permalink:
+  type: 'string'
+  label:
+    es: 'Enlace'
+    en: 'Permalink'
+  help:
+    es: |
+      Si no quieres utilizar el formato de enlaces general del sitio
+      para este artículo, especifica uno aquí.
+    en: |
+      If you don't want to follow the site's default link format for this page, 
+      specify it here.
+draft:
+  type: 'boolean'
+  label:
+    es: 'Borrador'
+    en: 'Draft'
+  help:
+    es: 'Este artículo aun no está listo para publicar'
+    en: "This home page isn't ready to be published yet"
+order:
+  type: 'order'
+  label:
+    es: 'Orden'
+    en: 'Order'
+  help:
+    es: 'Solo el artículo home más reciente (de orden más alto) con permalink "/" figurará en el sitio'
+    en: 'Only the latest home post (highest order) with root permalink will appear on the website'

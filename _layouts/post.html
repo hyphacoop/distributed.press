@@ -12,16 +12,19 @@ layout: default
 <article>
   <span class="meta">{{ page.date | date: site.date_format }} • {{ read-time }}</span>
 	<h1>{{ page.title }}</h1>
+  <p><em>
+    {{page.description}}
+  </em></p>
 		{{ content }}
-  {% if site.display-author-post-page %}
-    {% if page.author.name %}
-      <small><em>{{ site.var_guest_post_by }}: {{ page.author.name }} {{ page.author.info }}</em></small>
-    {% else %}
-      {% if site.author.name %}
-        <small><em>{{ site.var_post_by }}: {{ site.author.name }} {{ site.author.info }}</em></small>
-      {% endif %}
-    {% endif %}
-  {% endif %}
+  <small><em>
+    {% unless page.authors == empty %}
+      {{site.var_post_by}} 
+      {% for author in page.authors %}
+        {% if forloop.last %} {{site.i18n.and}} {% endif %}
+        {{ author }}{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    {% endunless %} 
+  </em></small>
 </article>
 
 {% if site.display-next-prev-post and page.previous.url or site.display-next-prev-post and page.next.url %}
